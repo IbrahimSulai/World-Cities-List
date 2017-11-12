@@ -1,20 +1,20 @@
-Prerequisites:
-	CocoPods needs to be installed.
+**Prerequisites:**<br />
+	CocoPods needs to be installed.<br />
 	XCode 9.x
 	
-Design pattern:
+**Design pattern:**<br />
 	MVVM
 
-Programming Language:
+**Programming Language:**<br />
 	Swift 4.0
 
-Functionalities:
-	Listed the world cities and it's population in list view.
-	City search functionality 
-	Sorting functionality based on population and City
-	Test Cases
+**Functionalities:**<br />
+	Listed the world cities and it's population in list view<br />
+	City search functionality <br />
+	Sorting functionality based on population and City<br />
+	Test Cases<br />
 	Error handling
 
-CocoPods:
-	ObjectMapper pod
+**CocoPods:**<br />
+	ObjectMapper pod<br />
 	FlagKit pod
