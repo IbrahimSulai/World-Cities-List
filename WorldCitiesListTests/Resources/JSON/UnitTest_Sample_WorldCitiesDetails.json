@@ -1,0 +1,40 @@
+{
+    "WorldCitiesList": [
+                        {
+                        "Country": "in",
+                        "City": "chennapatnam",
+                        "AccentCity": "Chennapatnam",
+                        "Region": 25,
+                        "Population": 0,
+                        "Latitude": 13.083333,
+                        "Longitude": 80.283333
+                        },
+                        {
+                        "Country": "in",
+                        "City": "chennapuri",
+                        "AccentCity": "Chennapuri",
+                        "Region": 25,
+                        "Population": 0,
+                        "Latitude": 13.083333,
+                        "Longitude": 80.283333
+                        },
+                        {
+                        "Country": "in",
+                        "City": "coimbatore",
+                        "AccentCity": "Coimbatore",
+                        "Region": 25,
+                        "Population": 0,
+                        "Latitude": 10.9925,
+                        "Longitude": 76.961389
+                        },
+                        {
+                        "Country": "in",
+                        "City": "ernakulam",
+                        "AccentCity": "Ernakulam",
+                        "Region": 13,
+                        "Population": 0,
+                        "Latitude": 9.983333,
+                        "Longitude": 76.283333
+                        }
+                        ]
+}

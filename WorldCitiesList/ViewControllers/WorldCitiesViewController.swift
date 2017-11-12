@@ -1,14 +1,14 @@
 //
-//  ViewController.swift
+//  WorldCitiesViewController.swift
 //  WorldCitiesList
 //
-//  Created by SparkMac on 09/11/17.
+//  Created by Ibrahim on 09/11/17.
 //  Copyright © 2017 Ibrahim. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class WorldCitiesViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
