@@ -1,5 +1,5 @@
 //
-//  WorldCityModel.swift
+//  WorldCitiesListResponse.swift
 //  WorldCitiesList
 //
 //  Created by Ibrahim on 09/11/17.
@@ -9,29 +9,28 @@
 import Foundation
 import ObjectMapper
 
-class WorldCityModel: Mappable {
-    var country: String?
-    var city: String?
-    var accentCity: String?
-    var region: String?
-    var population: String?
-    var latitude: String?
-    var longitude: String?
+class WorldCitiesListResponse: Mappable, NSCopying {
+    var worldCitiesList: [WorldCityModel] = []
     
+    // required initializer for Mappable protocol
     required init?(map: Map) {
-        
+        mapping(map: map)
+    }
+    
+    // required initializer for the Copying protocol
+    init(worldCitiesList: [WorldCityModel]) {
+        self.worldCitiesList = worldCitiesList
     }
     
     // Mappable
     func mapping(map: Map) {
-        country <- map["Country"]
-        city <- map["City"]
-        accentCity <- map["AccentCity"]
-        region <- map["Region"]
-        population <- map["Population"]
-        latitude <- map["Latitude"]
-        longitude <- map["Longitude"]
+        worldCitiesList <- map[JsonKeyConstants.WorldCitiesListKey]
+    }
+    
+    // Copying protocol
+    func copy(with zone: NSZone? = nil) -> Any {
+        let copy = WorldCitiesListResponse(worldCitiesList: worldCitiesList)
+        return copy
     }
 }
-
 

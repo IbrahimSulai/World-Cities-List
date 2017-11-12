@@ -22,4 +22,10 @@ class WorldCityDetailsTableViewCell: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
     }
+    
+    // function to set the UI attributes
+    func setUIAttributes() {
+        cityNameLabel.font = UIFont.fontBoldWith(size: 18.0)
+        populationLabel.font = UIFont.fontMediumWith(size: 14.0)
+    }
 }

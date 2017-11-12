@@ -7,13 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72169408B4A48BB97F4EF6CB /* Pods_WorldCitiesListTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D99B40E5B33C4C57F7E93291 /* Pods_WorldCitiesListTests.framework */; };
+		9BAB4E2D55F7EE056FDFC9EA /* Pods_WorldCitiesListUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D568498AD58DA14AFA36529E /* Pods_WorldCitiesListUITests.framework */; };
+		D368FFBA1FB5C30C003CF7AF /* WorldCitiesDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = D3DE22C71FB58DB4002F4541 /* WorldCitiesDetails.json */; };
+		D368FFBB1FB5ECCD003CF7AF /* FlagKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D368FFBC1FB5ECCD003CF7AF /* FlagKit.framework */; };
 		D3DE22841FB48554002F4541 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22831FB48554002F4541 /* AppDelegate.swift */; };
-		D3DE22861FB48554002F4541 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22851FB48554002F4541 /* ViewController.swift */; };
+		D3DE22861FB48554002F4541 /* WorldCitiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22851FB48554002F4541 /* WorldCitiesViewController.swift */; };
 		D3DE22891FB48554002F4541 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3DE22871FB48554002F4541 /* Main.storyboard */; };
 		D3DE228B1FB48554002F4541 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3DE228A1FB48554002F4541 /* Assets.xcassets */; };
 		D3DE228E1FB48554002F4541 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3DE228C1FB48554002F4541 /* LaunchScreen.storyboard */; };
 		D3DE22991FB48554002F4541 /* WorldCitiesListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22981FB48554002F4541 /* WorldCitiesListTests.swift */; };
 		D3DE22A41FB48555002F4541 /* WorldCitiesListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22A31FB48555002F4541 /* WorldCitiesListUITests.swift */; };
+		D3DE22B51FB49050002F4541 /* WorldCitiesListResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22B41FB49050002F4541 /* WorldCitiesListResponse.swift */; };
+		D3DE22B71FB49076002F4541 /* WorldCityViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22B61FB49076002F4541 /* WorldCityViewModel.swift */; };
+		D3DE22BB1FB490F5002F4541 /* WorldCityDetailsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22B91FB490F5002F4541 /* WorldCityDetailsTableViewCell.swift */; };
+		D3DE22BC1FB490F5002F4541 /* WorldCityDetailsTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3DE22BA1FB490F5002F4541 /* WorldCityDetailsTableViewCell.xib */; };
+		D3DE22BF1FB5652B002F4541 /* WorldCitiesService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3DE22BE1FB5652B002F4541 /* WorldCitiesService.swift */; };
+		D3DE22C31FB5721A002F4541 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3DE22C21FB57219002F4541 /* Foundation.framework */; };
+		D3DE22C41FB584FB002F4541 /* ObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3DE22C51FB584FB002F4541 /* ObjectMapper.framework */; };
+		D3F61DFD1FB5B38200487039 /* WorldCityModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3F61DFB1FB5ADC900487039 /* WorldCityModel.swift */; };
+		E5B870F24738F3B92C648403 /* Pods_WorldCitiesList.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 588C39538E76CDC920C7FFC3 /* Pods_WorldCitiesList.framework */; };
+		F4016DFC1FB6E28D006D1CAA /* GlobalConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4016DFB1FB6E28D006D1CAA /* GlobalConstants.swift */; };
+		F4418D6F1FB82FA700CF9C75 /* UIFont+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4418D6E1FB82FA700CF9C75 /* UIFont+Extension.swift */; };
+		F49E554F1FB8675800615939 /* UnitTest_Sample_WorldCitiesDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = F49E554E1FB8675800615939 /* UnitTest_Sample_WorldCitiesDetails.json */; };
+		F49E55501FB876CD00615939 /* UnitTest_Sample_WorldCitiesDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = F49E554E1FB8675800615939 /* UnitTest_Sample_WorldCitiesDetails.json */; };
+		F49E55541FB89F3F00615939 /* README.rtf in Resources */ = {isa = PBXBuildFile; fileRef = F49E55531FB89F3F00615939 /* README.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +52,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F394C9D2644C1FC1D62F26B /* Pods-WorldCitiesListUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldCitiesListUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WorldCitiesListUITests/Pods-WorldCitiesListUITests.release.xcconfig"; sourceTree = "<group>"; };
+		588C39538E76CDC920C7FFC3 /* Pods_WorldCitiesList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WorldCitiesList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6E581B3D76FAE2D2463EE722 /* Pods-WorldCitiesList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldCitiesList.release.xcconfig"; path = "Pods/Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList.release.xcconfig"; sourceTree = "<group>"; };
+		73184C3F0D5FF9FA8BA39E99 /* Pods-WorldCitiesListUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldCitiesListUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WorldCitiesListUITests/Pods-WorldCitiesListUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		87C2F590FF321C2DAF6C33C8 /* Pods-WorldCitiesListTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldCitiesListTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WorldCitiesListTests/Pods-WorldCitiesListTests.debug.xcconfig"; sourceTree = "<group>"; };
+		903C40559D66A17B7DB4B724 /* Pods-WorldCitiesList.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldCitiesList.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList.debug.xcconfig"; sourceTree = "<group>"; };
+		BB5D4722C8EA63FC6473D071 /* Pods-WorldCitiesListTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WorldCitiesListTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WorldCitiesListTests/Pods-WorldCitiesListTests.release.xcconfig"; sourceTree = "<group>"; };
+		D368FFBC1FB5ECCD003CF7AF /* FlagKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FlagKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3DE22801FB48554002F4541 /* WorldCitiesList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WorldCitiesList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3DE22831FB48554002F4541 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D3DE22851FB48554002F4541 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D3DE22851FB48554002F4541 /* WorldCitiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCitiesViewController.swift; sourceTree = "<group>"; };
 		D3DE22881FB48554002F4541 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D3DE228A1FB48554002F4541 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3DE228D1FB48554002F4541 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +73,21 @@
 		D3DE229F1FB48555002F4541 /* WorldCitiesListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorldCitiesListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3DE22A31FB48555002F4541 /* WorldCitiesListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCitiesListUITests.swift; sourceTree = "<group>"; };
 		D3DE22A51FB48555002F4541 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3DE22B41FB49050002F4541 /* WorldCitiesListResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCitiesListResponse.swift; sourceTree = "<group>"; };
+		D3DE22B61FB49076002F4541 /* WorldCityViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCityViewModel.swift; sourceTree = "<group>"; };
+		D3DE22B91FB490F5002F4541 /* WorldCityDetailsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCityDetailsTableViewCell.swift; sourceTree = "<group>"; };
+		D3DE22BA1FB490F5002F4541 /* WorldCityDetailsTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = WorldCityDetailsTableViewCell.xib; sourceTree = "<group>"; };
+		D3DE22BE1FB5652B002F4541 /* WorldCitiesService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCitiesService.swift; sourceTree = "<group>"; };
+		D3DE22C21FB57219002F4541 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D3DE22C51FB584FB002F4541 /* ObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = ObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3DE22C71FB58DB4002F4541 /* WorldCitiesDetails.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = WorldCitiesDetails.json; sourceTree = "<group>"; };
+		D3F61DFB1FB5ADC900487039 /* WorldCityModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldCityModel.swift; sourceTree = "<group>"; };
+		D568498AD58DA14AFA36529E /* Pods_WorldCitiesListUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WorldCitiesListUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D99B40E5B33C4C57F7E93291 /* Pods_WorldCitiesListTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WorldCitiesListTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4016DFB1FB6E28D006D1CAA /* GlobalConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalConstants.swift; sourceTree = "<group>"; };
+		F4418D6E1FB82FA700CF9C75 /* UIFont+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+Extension.swift"; sourceTree = "<group>"; };
+		F49E554E1FB8675800615939 /* UnitTest_Sample_WorldCitiesDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = UnitTest_Sample_WorldCitiesDetails.json; sourceTree = "<group>"; };
+		F49E55531FB89F3F00615939 /* README.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = README.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +95,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D368FFBB1FB5ECCD003CF7AF /* FlagKit.framework in Frameworks */,
+				D3DE22C41FB584FB002F4541 /* ObjectMapper.framework in Frameworks */,
+				D3DE22C31FB5721A002F4541 /* Foundation.framework in Frameworks */,
+				E5B870F24738F3B92C648403 /* Pods_WorldCitiesList.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72169408B4A48BB97F4EF6CB /* Pods_WorldCitiesListTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +114,34 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BAB4E2D55F7EE056FDFC9EA /* Pods_WorldCitiesListUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1E5A0D009BDF0D084397ACD6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				903C40559D66A17B7DB4B724 /* Pods-WorldCitiesList.debug.xcconfig */,
+				6E581B3D76FAE2D2463EE722 /* Pods-WorldCitiesList.release.xcconfig */,
+				87C2F590FF321C2DAF6C33C8 /* Pods-WorldCitiesListTests.debug.xcconfig */,
+				BB5D4722C8EA63FC6473D071 /* Pods-WorldCitiesListTests.release.xcconfig */,
+				73184C3F0D5FF9FA8BA39E99 /* Pods-WorldCitiesListUITests.debug.xcconfig */,
+				4F394C9D2644C1FC1D62F26B /* Pods-WorldCitiesListUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D368FFB91FB5C060003CF7AF /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				D3DE22C71FB58DB4002F4541 /* WorldCitiesDetails.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
 		D3DE22771FB48554002F4541 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +149,8 @@
 				D3DE22971FB48554002F4541 /* WorldCitiesListTests */,
 				D3DE22A21FB48555002F4541 /* WorldCitiesListUITests */,
 				D3DE22811FB48554002F4541 /* Products */,
+				D3DE22C11FB57219002F4541 /* Frameworks */,
+				1E5A0D009BDF0D084397ACD6 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,8 +167,15 @@
 		D3DE22821FB48554002F4541 /* WorldCitiesList */ = {
 			isa = PBXGroup;
 			children = (
+				F49E55531FB89F3F00615939 /* README.rtf */,
+				D3DE22C61FB58D11002F4541 /* Resources */,
+				D3DE22C01FB571D2002F4541 /* Supporting Files */,
+				D3DE22BD1FB56506002F4541 /* Services */,
+				D3DE22B21FB48FC5002F4541 /* Model */,
+				D3DE22B11FB48F69002F4541 /* ViewModel */,
+				D3DE22B81FB49080002F4541 /* Views */,
+				D3DE22B31FB48FCC002F4541 /* ViewControllers */,
 				D3DE22831FB48554002F4541 /* AppDelegate.swift */,
-				D3DE22851FB48554002F4541 /* ViewController.swift */,
 				D3DE22871FB48554002F4541 /* Main.storyboard */,
 				D3DE228A1FB48554002F4541 /* Assets.xcassets */,
 				D3DE228C1FB48554002F4541 /* LaunchScreen.storyboard */,
@@ -110,6 +187,7 @@
 		D3DE22971FB48554002F4541 /* WorldCitiesListTests */ = {
 			isa = PBXGroup;
 			children = (
+				F49E554C1FB865CE00615939 /* Resources */,
 				D3DE22981FB48554002F4541 /* WorldCitiesListTests.swift */,
 				D3DE229A1FB48554002F4541 /* Info.plist */,
 			);
@@ -125,6 +203,102 @@
 			path = WorldCitiesListUITests;
 			sourceTree = "<group>";
 		};
+		D3DE22B11FB48F69002F4541 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				D3DE22B61FB49076002F4541 /* WorldCityViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		D3DE22B21FB48FC5002F4541 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D3DE22B41FB49050002F4541 /* WorldCitiesListResponse.swift */,
+				D3F61DFB1FB5ADC900487039 /* WorldCityModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D3DE22B31FB48FCC002F4541 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				D3DE22851FB48554002F4541 /* WorldCitiesViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		D3DE22B81FB49080002F4541 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				F4016DFD1FB6F660006D1CAA /* CustomTsbleViewCell */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D3DE22BD1FB56506002F4541 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				D3DE22BE1FB5652B002F4541 /* WorldCitiesService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D3DE22C01FB571D2002F4541 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F4016DFB1FB6E28D006D1CAA /* GlobalConstants.swift */,
+				F4418D6E1FB82FA700CF9C75 /* UIFont+Extension.swift */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D3DE22C11FB57219002F4541 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D368FFBC1FB5ECCD003CF7AF /* FlagKit.framework */,
+				D3DE22C51FB584FB002F4541 /* ObjectMapper.framework */,
+				D3DE22C21FB57219002F4541 /* Foundation.framework */,
+				588C39538E76CDC920C7FFC3 /* Pods_WorldCitiesList.framework */,
+				D99B40E5B33C4C57F7E93291 /* Pods_WorldCitiesListTests.framework */,
+				D568498AD58DA14AFA36529E /* Pods_WorldCitiesListUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D3DE22C61FB58D11002F4541 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D368FFB91FB5C060003CF7AF /* JSON */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F4016DFD1FB6F660006D1CAA /* CustomTsbleViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				D3DE22B91FB490F5002F4541 /* WorldCityDetailsTableViewCell.swift */,
+				D3DE22BA1FB490F5002F4541 /* WorldCityDetailsTableViewCell.xib */,
+			);
+			path = CustomTsbleViewCell;
+			sourceTree = "<group>";
+		};
+		F49E554C1FB865CE00615939 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F49E554D1FB865DE00615939 /* JSON */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F49E554D1FB865DE00615939 /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				F49E554E1FB8675800615939 /* UnitTest_Sample_WorldCitiesDetails.json */,
+			);
+			path = JSON;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +306,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D3DE22A81FB48555002F4541 /* Build configuration list for PBXNativeTarget "WorldCitiesList" */;
 			buildPhases = (
+				D73D00DCF798CF29DFB7C543 /* [CP] Check Pods Manifest.lock */,
 				D3DE227C1FB48554002F4541 /* Sources */,
 				D3DE227D1FB48554002F4541 /* Frameworks */,
 				D3DE227E1FB48554002F4541 /* Resources */,
+				F366ED9B6958F758BFBA1FF1 /* [CP] Embed Pods Frameworks */,
+				46081B3A280603E9FE959913 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +326,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D3DE22AB1FB48555002F4541 /* Build configuration list for PBXNativeTarget "WorldCitiesListTests" */;
 			buildPhases = (
+				C9AD97E42D581A9F978BC8F3 /* [CP] Check Pods Manifest.lock */,
 				D3DE22901FB48554002F4541 /* Sources */,
 				D3DE22911FB48554002F4541 /* Frameworks */,
 				D3DE22921FB48554002F4541 /* Resources */,
+				F2AD60EDA9BA7FB7A3C05D78 /* [CP] Embed Pods Frameworks */,
+				17748E93E23C2C2C8F051702 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +347,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D3DE22AE1FB48555002F4541 /* Build configuration list for PBXNativeTarget "WorldCitiesListUITests" */;
 			buildPhases = (
+				C187763B87FB605D381CD15C /* [CP] Check Pods Manifest.lock */,
 				D3DE229B1FB48555002F4541 /* Sources */,
 				D3DE229C1FB48555002F4541 /* Frameworks */,
 				D3DE229D1FB48555002F4541 /* Resources */,
+				8CFAB842ADCAD2F9D8BF1BC0 /* [CP] Embed Pods Frameworks */,
+				337E604218386FB1EB4C2B35 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -232,8 +415,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F49E55501FB876CD00615939 /* UnitTest_Sample_WorldCitiesDetails.json in Resources */,
+				D368FFBA1FB5C30C003CF7AF /* WorldCitiesDetails.json in Resources */,
+				D3DE22BC1FB490F5002F4541 /* WorldCityDetailsTableViewCell.xib in Resources */,
 				D3DE228E1FB48554002F4541 /* LaunchScreen.storyboard in Resources */,
 				D3DE228B1FB48554002F4541 /* Assets.xcassets in Resources */,
+				F49E55541FB89F3F00615939 /* README.rtf in Resources */,
 				D3DE22891FB48554002F4541 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -242,6 +429,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F49E554F1FB8675800615939 /* UnitTest_Sample_WorldCitiesDetails.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,12 +442,171 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		17748E93E23C2C2C8F051702 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesListTests/Pods-WorldCitiesListTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		337E604218386FB1EB4C2B35 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesListUITests/Pods-WorldCitiesListUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		46081B3A280603E9FE959913 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8CFAB842ADCAD2F9D8BF1BC0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesListUITests/Pods-WorldCitiesListUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C187763B87FB605D381CD15C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WorldCitiesListUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C9AD97E42D581A9F978BC8F3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WorldCitiesListTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D73D00DCF798CF29DFB7C543 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-WorldCitiesList-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F2AD60EDA9BA7FB7A3C05D78 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesListTests/Pods-WorldCitiesListTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F366ED9B6958F758BFBA1FF1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/FlagKit/FlagKit.framework",
+				"${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/FlagKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectMapper.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D3DE227C1FB48554002F4541 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D3DE22861FB48554002F4541 /* ViewController.swift in Sources */,
+				D3F61DFD1FB5B38200487039 /* WorldCityModel.swift in Sources */,
+				D3DE22B71FB49076002F4541 /* WorldCityViewModel.swift in Sources */,
+				D3DE22B51FB49050002F4541 /* WorldCitiesListResponse.swift in Sources */,
+				D3DE22BB1FB490F5002F4541 /* WorldCityDetailsTableViewCell.swift in Sources */,
+				D3DE22BF1FB5652B002F4541 /* WorldCitiesService.swift in Sources */,
+				F4418D6F1FB82FA700CF9C75 /* UIFont+Extension.swift in Sources */,
+				D3DE22861FB48554002F4541 /* WorldCitiesViewController.swift in Sources */,
+				F4016DFC1FB6E28D006D1CAA /* GlobalConstants.swift in Sources */,
 				D3DE22841FB48554002F4541 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -424,9 +771,11 @@
 		};
 		D3DE22A91FB48555002F4541 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 903C40559D66A17B7DB4B724 /* Pods-WorldCitiesList.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = WorldCitiesList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.worldcity.assignment.WorldCitiesList;
@@ -438,9 +787,11 @@
 		};
 		D3DE22AA1FB48555002F4541 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E581B3D76FAE2D2463EE722 /* Pods-WorldCitiesList.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = WorldCitiesList/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.worldcity.assignment.WorldCitiesList;
@@ -452,6 +803,7 @@
 		};
 		D3DE22AC1FB48555002F4541 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 87C2F590FF321C2DAF6C33C8 /* Pods-WorldCitiesListTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -468,6 +820,7 @@
 		};
 		D3DE22AD1FB48555002F4541 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BB5D4722C8EA63FC6473D071 /* Pods-WorldCitiesListTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -484,6 +837,7 @@
 		};
 		D3DE22AF1FB48555002F4541 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 73184C3F0D5FF9FA8BA39E99 /* Pods-WorldCitiesListUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -499,6 +853,7 @@
 		};
 		D3DE22B01FB48555002F4541 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F394C9D2644C1FC1D62F26B /* Pods-WorldCitiesListUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

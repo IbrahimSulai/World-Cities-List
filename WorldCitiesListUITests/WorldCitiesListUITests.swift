@@ -2,7 +2,7 @@
 //  WorldCitiesListUITests.swift
 //  WorldCitiesListUITests
 //
-//  Created by SparkMac on 09/11/17.
+//  Created by Ibrahim on 09/11/17.
 //  Copyright © 2017 Ibrahim. All rights reserved.
 //
 

@@ -1,0 +1,6 @@
+framework module Pods_WorldCitiesListUITests {
+  umbrella header "Pods-WorldCitiesListUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

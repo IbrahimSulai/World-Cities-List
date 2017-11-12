@@ -2,17 +2,17 @@
     "WorldCitiesList": [
                         {
                         "Country": "in",
-                        "City": "chennapatnam",
-                        "AccentCity": "Chennapatnam",
-                        "Region": 25,
-                        "Population": 0,
-                        "Latitude": 13.083333,
-                        "Longitude": 80.283333
+                        "City": "ernakulam",
+                        "AccentCity": "Ernakulam",
+                        "Region": 13,
+                        "Population": 30000,
+                        "Latitude": 9.983333,
+                        "Longitude": 76.283333
                         },
                         {
                         "Country": "in",
-                        "City": "chennapuri",
-                        "AccentCity": "Chennapuri",
+                        "City": "chennapatnam",
+                        "AccentCity": "Chennapatnam",
                         "Region": 25,
                         "Population": 0,
                         "Latitude": 13.083333,
@@ -23,18 +23,18 @@
                         "City": "coimbatore",
                         "AccentCity": "Coimbatore",
                         "Region": 25,
-                        "Population": 0,
+                        "Population": 10000,
                         "Latitude": 10.9925,
                         "Longitude": 76.961389
                         },
                         {
-                        "Country": "in",
-                        "City": "ernakulam",
-                        "AccentCity": "Ernakulam",
-                        "Region": 13,
-                        "Population": 0,
-                        "Latitude": 9.983333,
-                        "Longitude": 76.283333
+                        "Country": "ad",
+                        "City": "aixas",
+                        "AccentCity": "Aixas",
+                        "Region": 6,
+                        "Population": 50101034,
+                        "Latitude": 42.4833333,
+                        "Longitude": 1.4666667
                         }
                         ]
 }

@@ -1,0 +1,1169 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		009F225F1DDE9340AEBC66FEAC8EA9B6 /* Pods-WorldCitiesList-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2DC510540CA0F1AEC9664048244B1E76 /* Pods-WorldCitiesList-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0F981C56836FE34E921BC7253826A170 /* CustomDateFormatTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADEAFDF58BD3A01DBA97AC6BEE7FEF91 /* CustomDateFormatTransform.swift */; };
+		11CA92973C5FBBBFEE6A220CB2E5AE01 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		134859C42E05396F62489E4329ECF6EA /* ToJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4260B803EC12438944476953A090A1 /* ToJSON.swift */; };
+		1894026C296B8A77711607C98ED40C86 /* IntegerOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBE9C6A4462E8C2A97870212D82CC2AC /* IntegerOperators.swift */; };
+		18E9B5E96557418567FCB7DCC559299F /* TransformOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = E187B3CAD2CB05578DFDE9616C5E661F /* TransformOperators.swift */; };
+		194858D10B9B1DD9FFEFBE4EAA0700F3 /* TransformOf.swift in Sources */ = {isa = PBXBuildFile; fileRef = B64B27D3BDB6DDACC5316936A3E2B780 /* TransformOf.swift */; };
+		2212097A17C09C4177550A5574BD1D61 /* FlagKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 21E3F29FE789FCC669E2B6FB4C6CFFDE /* FlagKit-dummy.m */; };
+		255C4ADB2BD82FEEF86A3D4D43F31C63 /* ISO8601DateTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 724D3042FF1A6CD7C6E58823824BBDD0 /* ISO8601DateTransform.swift */; };
+		27156C9092B7A82E24CF96312A941150 /* TransformType.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF22781815ECCAA93BC45F241E63F33 /* TransformType.swift */; };
+		2D89AB26203628C04B3E87D045525701 /* MapError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C863460AD6BFADBB4AA9436E062057 /* MapError.swift */; };
+		3FD39563B22DE7FFD3CF21403EF1EF30 /* Pods-WorldCitiesListUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E063B6FA89F1623F8976DE5AAB3C5E1E /* Pods-WorldCitiesListUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		407680CBB7E1D483E77E91E409DD08E6 /* Pods-WorldCitiesListUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 021A383919760BBA9856713155EBD65F /* Pods-WorldCitiesListUITests-dummy.m */; };
+		415057E07BD0140E4E02E93D22A296D0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		4215D7313CE6E738AAD80E9FEC6C60CC /* DateFormatterTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F68761F22E83FCE7ADF816992EE571B /* DateFormatterTransform.swift */; };
+		51776DAF34291BA9932F8A9C2203C55D /* Pods-WorldCitiesList-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 581A37A12AF34758E5277A164078B110 /* Pods-WorldCitiesList-dummy.m */; };
+		51B1003962C1D3428EDB6EBF5E6AAE85 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		551FB4DF0E5072BB849BB4FCE74F7361 /* HexColorTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94861B6A34CA94311E2B59D8A703DFD4 /* HexColorTransform.swift */; };
+		59109302859941E04E87DC7044DFEE89 /* ObjectMapper-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 461DB38E99B6B025D8C73F1DD4C303B3 /* ObjectMapper-dummy.m */; };
+		5C081CFB2DB6F154BF26D55EC673DB6D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		5ED62FEA192FE805FAAAC6DA21B3C5A4 /* FlagKit.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1FA569C9D24733398B22E01C937B3A5 /* FlagKit.xcassets */; };
+		67A4D8A24085ADC44A65404E73461B43 /* Mappable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 740828922A501262F31BC807A728C812 /* Mappable.swift */; };
+		6A6D3A2F3310E571BAAFD13E57D28942 /* FlagStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C09C1930B0F5EDE0230E3A277DA6A0 /* FlagStyle.swift */; };
+		6C2FE27FDBD6621AAB57E4082419C347 /* NSDecimalNumberTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDFF7190637DD592E55A92D80E341DA /* NSDecimalNumberTransform.swift */; };
+		706840688BA7E9BDE5F4DD2C0E558835 /* EnumOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B233EA1C59880CF43E5FCDFDB7F69D /* EnumOperators.swift */; };
+		77CA4CD47748C0B69982A6D82C2799D5 /* Mapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 676E25F0CBE419390C96ECBBC46BBD0F /* Mapper.swift */; };
+		78C198E9BB56FB59BD494C8FA759645B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		91AD01924FF9F6A73ADC33C340AE9169 /* Flag.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C9E5EFD794BC281E44AA2AF553D7A9A /* Flag.swift */; };
+		96FBE91D8201B0D51936FB85E94B4387 /* Pods-WorldCitiesListTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B9622D2A8D57E7D55B7F57F3F919BCA /* Pods-WorldCitiesListTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9C86F0C8765FF944B344A78F54312A7F /* NSImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371A12C657F8B1CD3D9A49AB199D0C7B /* NSImage.swift */; };
+		A128DBCF691E0F4D2AC3EEA36F7BD562 /* ObjectMapper-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 60D68428692A644B607188DB7565C6A8 /* ObjectMapper-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A5BFC49ED41BC416BEBF4772517AB741 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7025D964ADBED2E8426655B15345DFFE /* Map.swift */; };
+		B2EFEFFB34D517F8E9A203B674AEBD13 /* DictionaryTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B901F2D3DB2AB4C4930F0DC419FA2F /* DictionaryTransform.swift */; };
+		B9C39C539A810D1958AEEF1AEC0FD75C /* ImmutableMappable.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD39BE5D35832AD810752F7851605CE /* ImmutableMappable.swift */; };
+		CC05A80927E14FA0D250CF99E91A0981 /* Pods-WorldCitiesListTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C3DAD533B99872D0B8917343689AF12 /* Pods-WorldCitiesListTests-dummy.m */; };
+		CCB9BD73F4FB8CDEE7BCA20CE4B9CBE7 /* FlagKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BDB710968D07A90F321BB1F1C69C4B8C /* FlagKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CE038A5EC8BCB8F2233E8CB0938647D4 /* FlagKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288553F8427E60E6F2161BFBF7AB6FF1 /* FlagKit.swift */; };
+		DB87FF0D3B17ABB5452FDD4D70C9A84D /* FromJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB9621E1D8BAC1280A9AF68314316212 /* FromJSON.swift */; };
+		EA67527CAF7ED571C8A84B66DDD70FBE /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEA3FCEE7F56BC7321B8DAEEB1C2FB66 /* Operators.swift */; };
+		EC1A896625476730D64BF9645624BBAD /* DataTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BB08E7DFC1A1A252E61F7F97AE942AA /* DataTransform.swift */; };
+		F527B0A072DFD754B471E4C1F6B16C48 /* URLTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 212BC33E62229E651681B87DDD7E6CA3 /* URLTransform.swift */; };
+		F9B63BDA169DB048D41DA8395261AEBA /* DateTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4168BD7D25EFF5C699D3CAF1D775EC46 /* DateTransform.swift */; };
+		FA92EBB9D7BDB7746287DB2CE59ECFBE /* UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82BF1B99E9AF95D739FD57DBA16C18DE /* UIImage.swift */; };
+		FCE734BD83FB03D3DC9F8AA843ECD73B /* EnumTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD22CB00EC445B6091663AECFA1F1BD0 /* EnumTransform.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		988996D0B52367B73653270231D1ADFE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD6C9FB6B052E1CF663F8A56041EA163;
+			remoteInfo = ObjectMapper;
+		};
+		B1C37D8B0C605ED56420346B8683B2AE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 33DF14505F36AF9F6FF97063882702E0;
+			remoteInfo = FlagKit;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		021A383919760BBA9856713155EBD65F /* Pods-WorldCitiesListUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WorldCitiesListUITests-dummy.m"; sourceTree = "<group>"; };
+		09E06CAFBF6C2489E67D25E5080AAA0A /* Pods-WorldCitiesListUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WorldCitiesListUITests.release.xcconfig"; sourceTree = "<group>"; };
+		0B9622D2A8D57E7D55B7F57F3F919BCA /* Pods-WorldCitiesListTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WorldCitiesListTests-umbrella.h"; sourceTree = "<group>"; };
+		0E940362BB7B9BBBF274EE89D8363CC8 /* Pods-WorldCitiesListTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WorldCitiesListTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		13E4765AFFA9EECE205C7A3B35CDF7A8 /* Pods-WorldCitiesList-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WorldCitiesList-frameworks.sh"; sourceTree = "<group>"; };
+		17C09C1930B0F5EDE0230E3A277DA6A0 /* FlagStyle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FlagStyle.swift; path = Sources/Swift/FlagKit/FlagStyle.swift; sourceTree = "<group>"; };
+		1BB08E7DFC1A1A252E61F7F97AE942AA /* DataTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DataTransform.swift; path = Sources/DataTransform.swift; sourceTree = "<group>"; };
+		1BD784B429017C667AF588F8177E9E20 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1EE63CD455FF3F5FC5E8C0C37F0D549A /* Pods-WorldCitiesListTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WorldCitiesListTests-frameworks.sh"; sourceTree = "<group>"; };
+		212BC33E62229E651681B87DDD7E6CA3 /* URLTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = URLTransform.swift; path = Sources/URLTransform.swift; sourceTree = "<group>"; };
+		21E3F29FE789FCC669E2B6FB4C6CFFDE /* FlagKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FlagKit-dummy.m"; sourceTree = "<group>"; };
+		251FD9FC6DEC1099198352DCE6B47526 /* Pods-WorldCitiesList.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WorldCitiesList.release.xcconfig"; sourceTree = "<group>"; };
+		26B901F2D3DB2AB4C4930F0DC419FA2F /* DictionaryTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DictionaryTransform.swift; path = Sources/DictionaryTransform.swift; sourceTree = "<group>"; };
+		288553F8427E60E6F2161BFBF7AB6FF1 /* FlagKit.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FlagKit.swift; path = Sources/Swift/FlagKit/FlagKit.swift; sourceTree = "<group>"; };
+		2DC510540CA0F1AEC9664048244B1E76 /* Pods-WorldCitiesList-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WorldCitiesList-umbrella.h"; sourceTree = "<group>"; };
+		2F68761F22E83FCE7ADF816992EE571B /* DateFormatterTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DateFormatterTransform.swift; path = Sources/DateFormatterTransform.swift; sourceTree = "<group>"; };
+		371A12C657F8B1CD3D9A49AB199D0C7B /* NSImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSImage.swift; path = Sources/Swift/FlagKit/NSImage.swift; sourceTree = "<group>"; };
+		3A9D296CF2D3821642A905FE24AD12E4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BDFF7190637DD592E55A92D80E341DA /* NSDecimalNumberTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NSDecimalNumberTransform.swift; path = Sources/NSDecimalNumberTransform.swift; sourceTree = "<group>"; };
+		4168BD7D25EFF5C699D3CAF1D775EC46 /* DateTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DateTransform.swift; path = Sources/DateTransform.swift; sourceTree = "<group>"; };
+		42D7E7704951512D6ED61586C283ACA8 /* Pods-WorldCitiesListUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WorldCitiesListUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		461DB38E99B6B025D8C73F1DD4C303B3 /* ObjectMapper-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ObjectMapper-dummy.m"; sourceTree = "<group>"; };
+		47B5FEC020D43E04C5C6C5B8E1DEC779 /* Pods_WorldCitiesListUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WorldCitiesListUITests.framework; path = "Pods-WorldCitiesListUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		490F39C7AA033DBD889E6072FE68C6F0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C9E5EFD794BC281E44AA2AF553D7A9A /* Flag.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Flag.swift; path = Sources/Swift/FlagKit/Flag.swift; sourceTree = "<group>"; };
+		5052C9CE3113EB6AE760EFA7E67E1755 /* Pods-WorldCitiesListUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WorldCitiesListUITests-frameworks.sh"; sourceTree = "<group>"; };
+		50F4B2050CD8C0C5012BC2263EADC726 /* Pods-WorldCitiesList.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WorldCitiesList.debug.xcconfig"; sourceTree = "<group>"; };
+		52B49CA26AA7554E4D017BB50C1A036B /* Pods-WorldCitiesListTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WorldCitiesListTests.modulemap"; sourceTree = "<group>"; };
+		57AFBF4C7E4759EC58EBA18507247F12 /* Pods-WorldCitiesList-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WorldCitiesList-acknowledgements.plist"; sourceTree = "<group>"; };
+		581A37A12AF34758E5277A164078B110 /* Pods-WorldCitiesList-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WorldCitiesList-dummy.m"; sourceTree = "<group>"; };
+		5A646EBD2F606794C044BC8184A025D5 /* FlagKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = FlagKit.framework; path = FlagKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E4260B803EC12438944476953A090A1 /* ToJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ToJSON.swift; path = Sources/ToJSON.swift; sourceTree = "<group>"; };
+		609A66ADA3502B87EA899DC9ECA2218C /* Pods-WorldCitiesListTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WorldCitiesListTests.debug.xcconfig"; sourceTree = "<group>"; };
+		60D68428692A644B607188DB7565C6A8 /* ObjectMapper-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ObjectMapper-umbrella.h"; sourceTree = "<group>"; };
+		60EF6CD49BC1CE7BC18F81A1CA59E786 /* Pods_WorldCitiesListTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WorldCitiesListTests.framework; path = "Pods-WorldCitiesListTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		635DDCEC68F1A2EE96A34B80A4F78219 /* Pods-WorldCitiesList-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WorldCitiesList-resources.sh"; sourceTree = "<group>"; };
+		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		666E584E3DEFFB95B921233A3DF55A2A /* Pods-WorldCitiesList.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WorldCitiesList.modulemap"; sourceTree = "<group>"; };
+		676E25F0CBE419390C96ECBBC46BBD0F /* Mapper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mapper.swift; path = Sources/Mapper.swift; sourceTree = "<group>"; };
+		7025D964ADBED2E8426655B15345DFFE /* Map.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Map.swift; path = Sources/Map.swift; sourceTree = "<group>"; };
+		724D3042FF1A6CD7C6E58823824BBDD0 /* ISO8601DateTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ISO8601DateTransform.swift; path = Sources/ISO8601DateTransform.swift; sourceTree = "<group>"; };
+		73EAD0FA3E7480E9D18982B627913955 /* Pods_WorldCitiesList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WorldCitiesList.framework; path = "Pods-WorldCitiesList.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		740828922A501262F31BC807A728C812 /* Mappable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Mappable.swift; path = Sources/Mappable.swift; sourceTree = "<group>"; };
+		79EEC4FC2214BDC76082AD24664885FF /* Pods-WorldCitiesListUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WorldCitiesListUITests-resources.sh"; sourceTree = "<group>"; };
+		7C3DAD533B99872D0B8917343689AF12 /* Pods-WorldCitiesListTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WorldCitiesListTests-dummy.m"; sourceTree = "<group>"; };
+		82BF1B99E9AF95D739FD57DBA16C18DE /* UIImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = UIImage.swift; path = Sources/Swift/FlagKit/UIImage.swift; sourceTree = "<group>"; };
+		837E4AF79718683BF123E76C0C8E6A4B /* FlagKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = FlagKit.modulemap; sourceTree = "<group>"; };
+		8BE40DCFFEEF48D8E55FA351969FD7E7 /* Pods-WorldCitiesListUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WorldCitiesListUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		94861B6A34CA94311E2B59D8A703DFD4 /* HexColorTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HexColorTransform.swift; path = Sources/HexColorTransform.swift; sourceTree = "<group>"; };
+		9989C072729A60C560ABC159A4FC7DD7 /* ObjectMapper.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = ObjectMapper.modulemap; sourceTree = "<group>"; };
+		A6225653870D21B50730B04E722E0310 /* Pods-WorldCitiesList-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WorldCitiesList-acknowledgements.markdown"; sourceTree = "<group>"; };
+		A9269E705EA2360B74B3344E780016EE /* Pods-WorldCitiesListUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-WorldCitiesListUITests.modulemap"; sourceTree = "<group>"; };
+		ADEAFDF58BD3A01DBA97AC6BEE7FEF91 /* CustomDateFormatTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CustomDateFormatTransform.swift; path = Sources/CustomDateFormatTransform.swift; sourceTree = "<group>"; };
+		B23D4134B35679BDBCA0E29925A1F63F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B281FED3617C280D7BF146C810F950B5 /* Pods-WorldCitiesListUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WorldCitiesListUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		B31B337CC3409331A61A60F8CD1C3531 /* FlagKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FlagKit.xcconfig; sourceTree = "<group>"; };
+		B64B27D3BDB6DDACC5316936A3E2B780 /* TransformOf.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformOf.swift; path = Sources/TransformOf.swift; sourceTree = "<group>"; };
+		BD22CB00EC445B6091663AECFA1F1BD0 /* EnumTransform.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EnumTransform.swift; path = Sources/EnumTransform.swift; sourceTree = "<group>"; };
+		BDB710968D07A90F321BB1F1C69C4B8C /* FlagKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FlagKit-umbrella.h"; sourceTree = "<group>"; };
+		C537B61A6C2247A53DD2AEF1D4A71250 /* Pods-WorldCitiesListTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WorldCitiesListTests.release.xcconfig"; sourceTree = "<group>"; };
+		C9B233EA1C59880CF43E5FCDFDB7F69D /* EnumOperators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EnumOperators.swift; path = Sources/EnumOperators.swift; sourceTree = "<group>"; };
+		CBD39BE5D35832AD810752F7851605CE /* ImmutableMappable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImmutableMappable.swift; path = Sources/ImmutableMappable.swift; sourceTree = "<group>"; };
+		CEA3FCEE7F56BC7321B8DAEEB1C2FB66 /* Operators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Operators.swift; path = Sources/Operators.swift; sourceTree = "<group>"; };
+		D7C863460AD6BFADBB4AA9436E062057 /* MapError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MapError.swift; path = Sources/MapError.swift; sourceTree = "<group>"; };
+		DBE9C6A4462E8C2A97870212D82CC2AC /* IntegerOperators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IntegerOperators.swift; path = Sources/IntegerOperators.swift; sourceTree = "<group>"; };
+		DE15A9026F79F12EB3A019F884DE9511 /* Pods-WorldCitiesListTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WorldCitiesListTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		E063B6FA89F1623F8976DE5AAB3C5E1E /* Pods-WorldCitiesListUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WorldCitiesListUITests-umbrella.h"; sourceTree = "<group>"; };
+		E187B3CAD2CB05578DFDE9616C5E661F /* TransformOperators.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformOperators.swift; path = Sources/TransformOperators.swift; sourceTree = "<group>"; };
+		EDFCEDD8EEBA02A7B6F6562176C49297 /* FlagKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FlagKit-prefix.pch"; sourceTree = "<group>"; };
+		EE5D8366C043B3EA97B34468D4C1161A /* ObjectMapper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ObjectMapper.framework; path = ObjectMapper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1FA569C9D24733398B22E01C937B3A5 /* FlagKit.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = FlagKit.xcassets; path = Assets/FlagKit.xcassets; sourceTree = "<group>"; };
+		F273CC93D7C3FB81D86DA0B820078164 /* ObjectMapper-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ObjectMapper-prefix.pch"; sourceTree = "<group>"; };
+		F5666867EE8743131CF6890ED7649CCD /* Pods-WorldCitiesListTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WorldCitiesListTests-resources.sh"; sourceTree = "<group>"; };
+		F85B93A4FB5055D6FB976BB5E5062371 /* ObjectMapper.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ObjectMapper.xcconfig; sourceTree = "<group>"; };
+		FAF22781815ECCAA93BC45F241E63F33 /* TransformType.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TransformType.swift; path = Sources/TransformType.swift; sourceTree = "<group>"; };
+		FB9621E1D8BAC1280A9AF68314316212 /* FromJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = FromJSON.swift; path = Sources/FromJSON.swift; sourceTree = "<group>"; };
+		FD15646F995244CE81A1B7D6C1B7933A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		35CA0342B4A4E295A35B0BE5E69F54B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51B1003962C1D3428EDB6EBF5E6AAE85 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BD44DA2EE9EC616BF64158E5AD2AA654 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5C081CFB2DB6F154BF26D55EC673DB6D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C4F4068871A73EB6FBE8042AF2063595 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				78C198E9BB56FB59BD494C8FA759645B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4C139631F455E14FBE9358EE0D68FA0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				415057E07BD0140E4E02E93D22A296D0 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBF0630992A17A9FBC899315272A8055 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				11CA92973C5FBBBFEE6A220CB2E5AE01 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		35692E63200D314BC859139CE7F7A843 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B23D4134B35679BDBCA0E29925A1F63F /* Info.plist */,
+				9989C072729A60C560ABC159A4FC7DD7 /* ObjectMapper.modulemap */,
+				F85B93A4FB5055D6FB976BB5E5062371 /* ObjectMapper.xcconfig */,
+				461DB38E99B6B025D8C73F1DD4C303B3 /* ObjectMapper-dummy.m */,
+				F273CC93D7C3FB81D86DA0B820078164 /* ObjectMapper-prefix.pch */,
+				60D68428692A644B607188DB7565C6A8 /* ObjectMapper-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/ObjectMapper";
+			sourceTree = "<group>";
+		};
+		5A75645D8B68315845811CB13471659C /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				B2376F210B5AF5DBC5425384446A73B1 /* Pods-WorldCitiesList */,
+				AE2AC96D3316808C149C01FEF1790B7C /* Pods-WorldCitiesListTests */,
+				D5D6123DFCC2ACF9D1245FE05AE645D1 /* Pods-WorldCitiesListUITests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		665A4AEE93F4F87F664CFB805C284524 /* ObjectMapper */ = {
+			isa = PBXGroup;
+			children = (
+				ADEAFDF58BD3A01DBA97AC6BEE7FEF91 /* CustomDateFormatTransform.swift */,
+				1BB08E7DFC1A1A252E61F7F97AE942AA /* DataTransform.swift */,
+				2F68761F22E83FCE7ADF816992EE571B /* DateFormatterTransform.swift */,
+				4168BD7D25EFF5C699D3CAF1D775EC46 /* DateTransform.swift */,
+				26B901F2D3DB2AB4C4930F0DC419FA2F /* DictionaryTransform.swift */,
+				C9B233EA1C59880CF43E5FCDFDB7F69D /* EnumOperators.swift */,
+				BD22CB00EC445B6091663AECFA1F1BD0 /* EnumTransform.swift */,
+				FB9621E1D8BAC1280A9AF68314316212 /* FromJSON.swift */,
+				94861B6A34CA94311E2B59D8A703DFD4 /* HexColorTransform.swift */,
+				CBD39BE5D35832AD810752F7851605CE /* ImmutableMappable.swift */,
+				DBE9C6A4462E8C2A97870212D82CC2AC /* IntegerOperators.swift */,
+				724D3042FF1A6CD7C6E58823824BBDD0 /* ISO8601DateTransform.swift */,
+				7025D964ADBED2E8426655B15345DFFE /* Map.swift */,
+				D7C863460AD6BFADBB4AA9436E062057 /* MapError.swift */,
+				740828922A501262F31BC807A728C812 /* Mappable.swift */,
+				676E25F0CBE419390C96ECBBC46BBD0F /* Mapper.swift */,
+				3BDFF7190637DD592E55A92D80E341DA /* NSDecimalNumberTransform.swift */,
+				CEA3FCEE7F56BC7321B8DAEEB1C2FB66 /* Operators.swift */,
+				5E4260B803EC12438944476953A090A1 /* ToJSON.swift */,
+				B64B27D3BDB6DDACC5316936A3E2B780 /* TransformOf.swift */,
+				E187B3CAD2CB05578DFDE9616C5E661F /* TransformOperators.swift */,
+				FAF22781815ECCAA93BC45F241E63F33 /* TransformType.swift */,
+				212BC33E62229E651681B87DDD7E6CA3 /* URLTransform.swift */,
+				35692E63200D314BC859139CE7F7A843 /* Support Files */,
+			);
+			name = ObjectMapper;
+			path = ObjectMapper;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
+				EAB0E0EBD8A4A69D299C214C7858B2BE /* Pods */,
+				C7AE6B5A4E86534D911105883E10398A /* Products */,
+				5A75645D8B68315845811CB13471659C /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		7E25AC29354E7F7715A276519DA276E6 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				837E4AF79718683BF123E76C0C8E6A4B /* FlagKit.modulemap */,
+				B31B337CC3409331A61A60F8CD1C3531 /* FlagKit.xcconfig */,
+				21E3F29FE789FCC669E2B6FB4C6CFFDE /* FlagKit-dummy.m */,
+				EDFCEDD8EEBA02A7B6F6562176C49297 /* FlagKit-prefix.pch */,
+				BDB710968D07A90F321BB1F1C69C4B8C /* FlagKit-umbrella.h */,
+				1BD784B429017C667AF588F8177E9E20 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/FlagKit";
+			sourceTree = "<group>";
+		};
+		95590619A8537AC6DCF20F1527CE7FFA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F1FA569C9D24733398B22E01C937B3A5 /* FlagKit.xcassets */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		AE2AC96D3316808C149C01FEF1790B7C /* Pods-WorldCitiesListTests */ = {
+			isa = PBXGroup;
+			children = (
+				490F39C7AA033DBD889E6072FE68C6F0 /* Info.plist */,
+				52B49CA26AA7554E4D017BB50C1A036B /* Pods-WorldCitiesListTests.modulemap */,
+				0E940362BB7B9BBBF274EE89D8363CC8 /* Pods-WorldCitiesListTests-acknowledgements.markdown */,
+				DE15A9026F79F12EB3A019F884DE9511 /* Pods-WorldCitiesListTests-acknowledgements.plist */,
+				7C3DAD533B99872D0B8917343689AF12 /* Pods-WorldCitiesListTests-dummy.m */,
+				1EE63CD455FF3F5FC5E8C0C37F0D549A /* Pods-WorldCitiesListTests-frameworks.sh */,
+				F5666867EE8743131CF6890ED7649CCD /* Pods-WorldCitiesListTests-resources.sh */,
+				0B9622D2A8D57E7D55B7F57F3F919BCA /* Pods-WorldCitiesListTests-umbrella.h */,
+				609A66ADA3502B87EA899DC9ECA2218C /* Pods-WorldCitiesListTests.debug.xcconfig */,
+				C537B61A6C2247A53DD2AEF1D4A71250 /* Pods-WorldCitiesListTests.release.xcconfig */,
+			);
+			name = "Pods-WorldCitiesListTests";
+			path = "Target Support Files/Pods-WorldCitiesListTests";
+			sourceTree = "<group>";
+		};
+		B2376F210B5AF5DBC5425384446A73B1 /* Pods-WorldCitiesList */ = {
+			isa = PBXGroup;
+			children = (
+				FD15646F995244CE81A1B7D6C1B7933A /* Info.plist */,
+				666E584E3DEFFB95B921233A3DF55A2A /* Pods-WorldCitiesList.modulemap */,
+				A6225653870D21B50730B04E722E0310 /* Pods-WorldCitiesList-acknowledgements.markdown */,
+				57AFBF4C7E4759EC58EBA18507247F12 /* Pods-WorldCitiesList-acknowledgements.plist */,
+				581A37A12AF34758E5277A164078B110 /* Pods-WorldCitiesList-dummy.m */,
+				13E4765AFFA9EECE205C7A3B35CDF7A8 /* Pods-WorldCitiesList-frameworks.sh */,
+				635DDCEC68F1A2EE96A34B80A4F78219 /* Pods-WorldCitiesList-resources.sh */,
+				2DC510540CA0F1AEC9664048244B1E76 /* Pods-WorldCitiesList-umbrella.h */,
+				50F4B2050CD8C0C5012BC2263EADC726 /* Pods-WorldCitiesList.debug.xcconfig */,
+				251FD9FC6DEC1099198352DCE6B47526 /* Pods-WorldCitiesList.release.xcconfig */,
+			);
+			name = "Pods-WorldCitiesList";
+			path = "Target Support Files/Pods-WorldCitiesList";
+			sourceTree = "<group>";
+		};
+		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C7AE6B5A4E86534D911105883E10398A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5A646EBD2F606794C044BC8184A025D5 /* FlagKit.framework */,
+				EE5D8366C043B3EA97B34468D4C1161A /* ObjectMapper.framework */,
+				73EAD0FA3E7480E9D18982B627913955 /* Pods_WorldCitiesList.framework */,
+				60EF6CD49BC1CE7BC18F81A1CA59E786 /* Pods_WorldCitiesListTests.framework */,
+				47B5FEC020D43E04C5C6C5B8E1DEC779 /* Pods_WorldCitiesListUITests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		D5D6123DFCC2ACF9D1245FE05AE645D1 /* Pods-WorldCitiesListUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3A9D296CF2D3821642A905FE24AD12E4 /* Info.plist */,
+				A9269E705EA2360B74B3344E780016EE /* Pods-WorldCitiesListUITests.modulemap */,
+				B281FED3617C280D7BF146C810F950B5 /* Pods-WorldCitiesListUITests-acknowledgements.markdown */,
+				42D7E7704951512D6ED61586C283ACA8 /* Pods-WorldCitiesListUITests-acknowledgements.plist */,
+				021A383919760BBA9856713155EBD65F /* Pods-WorldCitiesListUITests-dummy.m */,
+				5052C9CE3113EB6AE760EFA7E67E1755 /* Pods-WorldCitiesListUITests-frameworks.sh */,
+				79EEC4FC2214BDC76082AD24664885FF /* Pods-WorldCitiesListUITests-resources.sh */,
+				E063B6FA89F1623F8976DE5AAB3C5E1E /* Pods-WorldCitiesListUITests-umbrella.h */,
+				8BE40DCFFEEF48D8E55FA351969FD7E7 /* Pods-WorldCitiesListUITests.debug.xcconfig */,
+				09E06CAFBF6C2489E67D25E5080AAA0A /* Pods-WorldCitiesListUITests.release.xcconfig */,
+			);
+			name = "Pods-WorldCitiesListUITests";
+			path = "Target Support Files/Pods-WorldCitiesListUITests";
+			sourceTree = "<group>";
+		};
+		E0DCE98F604CB73EF17B5941F37239D9 /* FlagKit */ = {
+			isa = PBXGroup;
+			children = (
+				4C9E5EFD794BC281E44AA2AF553D7A9A /* Flag.swift */,
+				288553F8427E60E6F2161BFBF7AB6FF1 /* FlagKit.swift */,
+				17C09C1930B0F5EDE0230E3A277DA6A0 /* FlagStyle.swift */,
+				371A12C657F8B1CD3D9A49AB199D0C7B /* NSImage.swift */,
+				82BF1B99E9AF95D739FD57DBA16C18DE /* UIImage.swift */,
+				95590619A8537AC6DCF20F1527CE7FFA /* Resources */,
+				7E25AC29354E7F7715A276519DA276E6 /* Support Files */,
+			);
+			name = FlagKit;
+			path = FlagKit;
+			sourceTree = "<group>";
+		};
+		EAB0E0EBD8A4A69D299C214C7858B2BE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				E0DCE98F604CB73EF17B5941F37239D9 /* FlagKit */,
+				665A4AEE93F4F87F664CFB805C284524 /* ObjectMapper */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		08B77BA924D21C9F222D67F05ABEAE52 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CCB9BD73F4FB8CDEE7BCA20CE4B9CBE7 /* FlagKit-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		10A7C2E70C62E58EBEE2F96B30B2625F /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				009F225F1DDE9340AEBC66FEAC8EA9B6 /* Pods-WorldCitiesList-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6DFC1E4E30E58853B6B690CE6BC5DA3A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3FD39563B22DE7FFD3CF21403EF1EF30 /* Pods-WorldCitiesListUITests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		767F2A00E256DBD01F05C0550A9BAC3E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96FBE91D8201B0D51936FB85E94B4387 /* Pods-WorldCitiesListTests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F57C9456EA5FB7C7D8FC40BACD0F5369 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A128DBCF691E0F4D2AC3EEA36F7BD562 /* ObjectMapper-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2C1AC7B9BA642A738271392775ECADC8 /* Pods-WorldCitiesListTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E328D476BCA866055746507BB9272980 /* Build configuration list for PBXNativeTarget "Pods-WorldCitiesListTests" */;
+			buildPhases = (
+				9EB7766B11F4C586AA1E849F1D2F857A /* Sources */,
+				35CA0342B4A4E295A35B0BE5E69F54B5 /* Frameworks */,
+				767F2A00E256DBD01F05C0550A9BAC3E /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-WorldCitiesListTests";
+			productName = "Pods-WorldCitiesListTests";
+			productReference = 60EF6CD49BC1CE7BC18F81A1CA59E786 /* Pods_WorldCitiesListTests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		33DF14505F36AF9F6FF97063882702E0 /* FlagKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C62AA67FE82F064C08E9D924360BADAE /* Build configuration list for PBXNativeTarget "FlagKit" */;
+			buildPhases = (
+				CECA6982504543F53FEEAD95701310B6 /* Sources */,
+				E4C139631F455E14FBE9358EE0D68FA0 /* Frameworks */,
+				9A6AC8EE6B943A1525D65A6BF50AED49 /* Resources */,
+				08B77BA924D21C9F222D67F05ABEAE52 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FlagKit;
+			productName = FlagKit;
+			productReference = 5A646EBD2F606794C044BC8184A025D5 /* FlagKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		57A9E9B3C698D9DFA013549B136422B1 /* Pods-WorldCitiesListUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2A9CAD73EFBF99B24EFF3D665AC18E58 /* Build configuration list for PBXNativeTarget "Pods-WorldCitiesListUITests" */;
+			buildPhases = (
+				CC9D3740E2CED5FEDAE1777CB6DA6C72 /* Sources */,
+				BD44DA2EE9EC616BF64158E5AD2AA654 /* Frameworks */,
+				6DFC1E4E30E58853B6B690CE6BC5DA3A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-WorldCitiesListUITests";
+			productName = "Pods-WorldCitiesListUITests";
+			productReference = 47B5FEC020D43E04C5C6C5B8E1DEC779 /* Pods_WorldCitiesListUITests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		CD6C9FB6B052E1CF663F8A56041EA163 /* ObjectMapper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23CFD86DE455F2B998EC09D589DA285D /* Build configuration list for PBXNativeTarget "ObjectMapper" */;
+			buildPhases = (
+				F35FEC988ECD73463D93176BC71A43B1 /* Sources */,
+				C4F4068871A73EB6FBE8042AF2063595 /* Frameworks */,
+				F57C9456EA5FB7C7D8FC40BACD0F5369 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ObjectMapper;
+			productName = ObjectMapper;
+			productReference = EE5D8366C043B3EA97B34468D4C1161A /* ObjectMapper.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		EDCF1F33B2DFE6B648CC5CB726653BF7 /* Pods-WorldCitiesList */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 66D0C2A636FAAE81AE8FDE8FC31F1599 /* Build configuration list for PBXNativeTarget "Pods-WorldCitiesList" */;
+			buildPhases = (
+				A6A8FD65A86A0C8E6809A5A253ACFF27 /* Sources */,
+				EBF0630992A17A9FBC899315272A8055 /* Frameworks */,
+				10A7C2E70C62E58EBEE2F96B30B2625F /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4E17E949506124678059C4FB3A3EA8C6 /* PBXTargetDependency */,
+				BF91516F53B03068324F2BBF81B123DC /* PBXTargetDependency */,
+			);
+			name = "Pods-WorldCitiesList";
+			productName = "Pods-WorldCitiesList";
+			productReference = 73EAD0FA3E7480E9D18982B627913955 /* Pods_WorldCitiesList.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = C7AE6B5A4E86534D911105883E10398A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				33DF14505F36AF9F6FF97063882702E0 /* FlagKit */,
+				CD6C9FB6B052E1CF663F8A56041EA163 /* ObjectMapper */,
+				EDCF1F33B2DFE6B648CC5CB726653BF7 /* Pods-WorldCitiesList */,
+				2C1AC7B9BA642A738271392775ECADC8 /* Pods-WorldCitiesListTests */,
+				57A9E9B3C698D9DFA013549B136422B1 /* Pods-WorldCitiesListUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9A6AC8EE6B943A1525D65A6BF50AED49 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5ED62FEA192FE805FAAAC6DA21B3C5A4 /* FlagKit.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9EB7766B11F4C586AA1E849F1D2F857A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC05A80927E14FA0D250CF99E91A0981 /* Pods-WorldCitiesListTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A6A8FD65A86A0C8E6809A5A253ACFF27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				51776DAF34291BA9932F8A9C2203C55D /* Pods-WorldCitiesList-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC9D3740E2CED5FEDAE1777CB6DA6C72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				407680CBB7E1D483E77E91E409DD08E6 /* Pods-WorldCitiesListUITests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CECA6982504543F53FEEAD95701310B6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				91AD01924FF9F6A73ADC33C340AE9169 /* Flag.swift in Sources */,
+				2212097A17C09C4177550A5574BD1D61 /* FlagKit-dummy.m in Sources */,
+				CE038A5EC8BCB8F2233E8CB0938647D4 /* FlagKit.swift in Sources */,
+				6A6D3A2F3310E571BAAFD13E57D28942 /* FlagStyle.swift in Sources */,
+				9C86F0C8765FF944B344A78F54312A7F /* NSImage.swift in Sources */,
+				FA92EBB9D7BDB7746287DB2CE59ECFBE /* UIImage.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F35FEC988ECD73463D93176BC71A43B1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F981C56836FE34E921BC7253826A170 /* CustomDateFormatTransform.swift in Sources */,
+				EC1A896625476730D64BF9645624BBAD /* DataTransform.swift in Sources */,
+				4215D7313CE6E738AAD80E9FEC6C60CC /* DateFormatterTransform.swift in Sources */,
+				F9B63BDA169DB048D41DA8395261AEBA /* DateTransform.swift in Sources */,
+				B2EFEFFB34D517F8E9A203B674AEBD13 /* DictionaryTransform.swift in Sources */,
+				706840688BA7E9BDE5F4DD2C0E558835 /* EnumOperators.swift in Sources */,
+				FCE734BD83FB03D3DC9F8AA843ECD73B /* EnumTransform.swift in Sources */,
+				DB87FF0D3B17ABB5452FDD4D70C9A84D /* FromJSON.swift in Sources */,
+				551FB4DF0E5072BB849BB4FCE74F7361 /* HexColorTransform.swift in Sources */,
+				B9C39C539A810D1958AEEF1AEC0FD75C /* ImmutableMappable.swift in Sources */,
+				1894026C296B8A77711607C98ED40C86 /* IntegerOperators.swift in Sources */,
+				255C4ADB2BD82FEEF86A3D4D43F31C63 /* ISO8601DateTransform.swift in Sources */,
+				A5BFC49ED41BC416BEBF4772517AB741 /* Map.swift in Sources */,
+				2D89AB26203628C04B3E87D045525701 /* MapError.swift in Sources */,
+				67A4D8A24085ADC44A65404E73461B43 /* Mappable.swift in Sources */,
+				77CA4CD47748C0B69982A6D82C2799D5 /* Mapper.swift in Sources */,
+				6C2FE27FDBD6621AAB57E4082419C347 /* NSDecimalNumberTransform.swift in Sources */,
+				59109302859941E04E87DC7044DFEE89 /* ObjectMapper-dummy.m in Sources */,
+				EA67527CAF7ED571C8A84B66DDD70FBE /* Operators.swift in Sources */,
+				134859C42E05396F62489E4329ECF6EA /* ToJSON.swift in Sources */,
+				194858D10B9B1DD9FFEFBE4EAA0700F3 /* TransformOf.swift in Sources */,
+				18E9B5E96557418567FCB7DCC559299F /* TransformOperators.swift in Sources */,
+				27156C9092B7A82E24CF96312A941150 /* TransformType.swift in Sources */,
+				F527B0A072DFD754B471E4C1F6B16C48 /* URLTransform.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4E17E949506124678059C4FB3A3EA8C6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = FlagKit;
+			target = 33DF14505F36AF9F6FF97063882702E0 /* FlagKit */;
+			targetProxy = B1C37D8B0C605ED56420346B8683B2AE /* PBXContainerItemProxy */;
+		};
+		BF91516F53B03068324F2BBF81B123DC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ObjectMapper;
+			target = CD6C9FB6B052E1CF663F8A56041EA163 /* ObjectMapper */;
+			targetProxy = 988996D0B52367B73653270231D1ADFE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0AA9B21E892DB0D94F58E11DECCD7EA1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B31B337CC3409331A61A60F8CD1C3531 /* FlagKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FlagKit/FlagKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FlagKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FlagKit/FlagKit.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = FlagKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		1A41B15D3AA834993ADDD808FA9D8764 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2CFE49A0BEC9E724729B86FCBC782A4B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 09E06CAFBF6C2489E67D25E5080AAA0A /* Pods-WorldCitiesListUITests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-WorldCitiesListUITests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WorldCitiesListUITests/Pods-WorldCitiesListUITests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_WorldCitiesListUITests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		45A8AEE01E68294DAB97CD528C053793 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F85B93A4FB5055D6FB976BB5E5062371 /* ObjectMapper.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ObjectMapper/ObjectMapper-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ObjectMapper/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ObjectMapper/ObjectMapper.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = ObjectMapper;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		48A40E041ABC1B4FE546E6BAFF2EC7EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B31B337CC3409331A61A60F8CD1C3531 /* FlagKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/FlagKit/FlagKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FlagKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FlagKit/FlagKit.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = FlagKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8CE9FB909E9F9129A1E666DA94AE2146 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8BE40DCFFEEF48D8E55FA351969FD7E7 /* Pods-WorldCitiesListUITests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-WorldCitiesListUITests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WorldCitiesListUITests/Pods-WorldCitiesListUITests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_WorldCitiesListUITests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		93374469E11255902CAA7DD4CB27A692 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F85B93A4FB5055D6FB976BB5E5062371 /* ObjectMapper.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/ObjectMapper/ObjectMapper-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/ObjectMapper/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/ObjectMapper/ObjectMapper.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = ObjectMapper;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A2E98B57B3A8C991D8BF6104E565F1B3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 609A66ADA3502B87EA899DC9ECA2218C /* Pods-WorldCitiesListTests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-WorldCitiesListTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WorldCitiesListTests/Pods-WorldCitiesListTests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_WorldCitiesListTests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		BC80BBB5C066539FFFC0B2127CA5D3C4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		DA6E787BB2A7411A748721BD63C7B832 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 50F4B2050CD8C0C5012BC2263EADC726 /* Pods-WorldCitiesList.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-WorldCitiesList/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_WorldCitiesList;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F90921FBECA39D9188186BE52F801FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 251FD9FC6DEC1099198352DCE6B47526 /* Pods-WorldCitiesList.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-WorldCitiesList/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WorldCitiesList/Pods-WorldCitiesList.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_WorldCitiesList;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		FFBB71364DBC3C4C9E1F88469F3061C3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C537B61A6C2247A53DD2AEF1D4A71250 /* Pods-WorldCitiesListTests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-WorldCitiesListTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-WorldCitiesListTests/Pods-WorldCitiesListTests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_WorldCitiesListTests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23CFD86DE455F2B998EC09D589DA285D /* Build configuration list for PBXNativeTarget "ObjectMapper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				45A8AEE01E68294DAB97CD528C053793 /* Debug */,
+				93374469E11255902CAA7DD4CB27A692 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2A9CAD73EFBF99B24EFF3D665AC18E58 /* Build configuration list for PBXNativeTarget "Pods-WorldCitiesListUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CE9FB909E9F9129A1E666DA94AE2146 /* Debug */,
+				2CFE49A0BEC9E724729B86FCBC782A4B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC80BBB5C066539FFFC0B2127CA5D3C4 /* Debug */,
+				1A41B15D3AA834993ADDD808FA9D8764 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		66D0C2A636FAAE81AE8FDE8FC31F1599 /* Build configuration list for PBXNativeTarget "Pods-WorldCitiesList" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DA6E787BB2A7411A748721BD63C7B832 /* Debug */,
+				F90921FBECA39D9188186BE52F801FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C62AA67FE82F064C08E9D924360BADAE /* Build configuration list for PBXNativeTarget "FlagKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0AA9B21E892DB0D94F58E11DECCD7EA1 /* Debug */,
+				48A40E041ABC1B4FE546E6BAFF2EC7EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E328D476BCA866055746507BB9272980 /* Build configuration list for PBXNativeTarget "Pods-WorldCitiesListTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A2E98B57B3A8C991D8BF6104E565F1B3 /* Debug */,
+				FFBB71364DBC3C4C9E1F88469F3061C3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

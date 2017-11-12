@@ -1,24 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" systemVersion="17A277" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="gCa-oq-ahN">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="AvenirNext.ttc">
+            <string>AvenirNext-DemiBold</string>
+        </array>
+    </customFonts>
     <scenes>
-        <!--View Controller-->
-        <scene sceneID="tne-QT-ifu">
+        <!--Navigation Controller-->
+        <scene sceneID="5sh-5O-eSL">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                <navigationController id="gCa-oq-ahN" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="roZ-CA-h0x">
+                        <rect key="frame" x="0.0" y="20" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="0.22352941176470587" green="0.56470588235294117" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <textAttributes key="titleTextAttributes">
+                            <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="20"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </textAttributes>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="cal-tt-8pO" kind="relationship" relationship="rootViewController" id="mP6-up-bu6"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cJe-GD-AjU" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1650" y="51"/>
+        </scene>
+        <!--World Cities Population List-->
+        <scene sceneID="gMj-wX-Zac">
+            <objects>
+                <viewController id="cal-tt-8pO" customClass="WorldCitiesViewController" customModule="WorldCitiesList" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="0BR-td-60h">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <subviews>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="bordered" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="3D8-0y-22q">
+                                <rect key="frame" x="16" y="132" width="343" height="29"/>
+                                <segments>
+                                    <segment title="Population ↑"/>
+                                    <segment title="Population ↓"/>
+                                    <segment title="City Name ↑"/>
+                                    <segment title="City Name ↓"/>
+                                </segments>
+                                <connections>
+                                    <action selector="segmentedControlActionWithSender:" destination="cal-tt-8pO" eventType="valueChanged" id="dwa-SI-ebX"/>
+                                </connections>
+                            </segmentedControl>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" bounces="NO" bouncesZoom="NO" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="1" sectionFooterHeight="1" translatesAutoresizingMaskIntoConstraints="NO" id="g8m-es-oam">
+                                <rect key="frame" x="16" y="176" width="343" height="475"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="cal-tt-8pO" id="aru-oM-4jr"/>
+                                    <outlet property="delegate" destination="cal-tt-8pO" id="bvf-oo-0vP"/>
+                                </connections>
+                            </tableView>
+                            <searchBar contentMode="redraw" searchBarStyle="minimal" placeholder="Search by City" translatesAutoresizingMaskIntoConstraints="NO" id="O5N-Q1-aAW">
+                                <rect key="frame" x="0.0" y="64" width="375" height="56"/>
+                                <textInputTraits key="textInputTraits" returnKeyType="done"/>
+                                <connections>
+                                    <outlet property="delegate" destination="cal-tt-8pO" id="hy0-WM-Jkg"/>
+                                </connections>
+                            </searchBar>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No results found" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ap2-CC-zKJ">
+                                <rect key="frame" x="96" y="363" width="183" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="ruy-DD-s7O"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="AvenirNext-DemiBold" family="Avenir Next" pointSize="24"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Ap2-CC-zKJ" firstAttribute="centerY" secondItem="g8m-es-oam" secondAttribute="centerY" constant="-40" id="16J-gq-vCt"/>
+                            <constraint firstItem="Ap2-CC-zKJ" firstAttribute="centerX" secondItem="jzr-q5-acr" secondAttribute="centerX" id="5sI-r3-4rD"/>
+                            <constraint firstItem="O5N-Q1-aAW" firstAttribute="leading" secondItem="jzr-q5-acr" secondAttribute="leading" id="67l-bz-e6Z"/>
+                            <constraint firstItem="jzr-q5-acr" firstAttribute="trailing" secondItem="3D8-0y-22q" secondAttribute="trailing" constant="16" id="9Gy-CO-aSl"/>
+                            <constraint firstItem="jzr-q5-acr" firstAttribute="trailing" secondItem="O5N-Q1-aAW" secondAttribute="trailing" id="In0-z8-9Sk"/>
+                            <constraint firstItem="g8m-es-oam" firstAttribute="leading" secondItem="jzr-q5-acr" secondAttribute="leading" constant="16" id="J2Y-O6-w0c"/>
+                            <constraint firstItem="g8m-es-oam" firstAttribute="top" secondItem="3D8-0y-22q" secondAttribute="bottom" constant="16" id="Min-II-Lrt"/>
+                            <constraint firstItem="3D8-0y-22q" firstAttribute="top" secondItem="O5N-Q1-aAW" secondAttribute="bottom" constant="12" id="RgB-2M-Ylx"/>
+                            <constraint firstItem="O5N-Q1-aAW" firstAttribute="top" secondItem="jzr-q5-acr" secondAttribute="top" id="gOd-FJ-JxZ"/>
+                            <constraint firstItem="3D8-0y-22q" firstAttribute="leading" secondItem="jzr-q5-acr" secondAttribute="leading" constant="16" id="lt5-WQ-kaJ"/>
+                            <constraint firstItem="jzr-q5-acr" firstAttribute="trailing" secondItem="g8m-es-oam" secondAttribute="trailing" constant="16" id="s3h-RO-79y"/>
+                            <constraint firstItem="g8m-es-oam" firstAttribute="bottom" secondItem="jzr-q5-acr" secondAttribute="bottom" constant="-16" id="urM-6z-ehR"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="jzr-q5-acr"/>
                     </view>
+                    <navigationItem key="navigationItem" title="World Cities Population List" id="TRQ-J9-t7Y"/>
+                    <connections>
+                        <outlet property="WorldCitiesListView" destination="g8m-es-oam" id="apB-Kh-cji"/>
+                        <outlet property="cityNameSearchBar" destination="O5N-Q1-aAW" id="NHv-pa-GGb"/>
+                        <outlet property="noResultsLabel" destination="Ap2-CC-zKJ" id="YC1-U2-wgn"/>
+                        <outlet property="searchDisplayController" destination="XFl-4e-LUN" id="wJp-ot-zi3"/>
+                        <outlet property="sortingSegmentControl" destination="3D8-0y-22q" id="gxY-87-t7d"/>
+                    </connections>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FnC-1R-uNL" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <searchDisplayController id="XFl-4e-LUN">
+                    <connections>
+                        <outlet property="delegate" destination="cal-tt-8pO" id="wqe-hV-Rfi"/>
+                        <outlet property="searchContentsController" destination="cal-tt-8pO" id="yPZ-gO-zxQ"/>
+                        <outlet property="searchResultsDataSource" destination="cal-tt-8pO" id="vlx-eL-4Py"/>
+                        <outlet property="searchResultsDelegate" destination="cal-tt-8pO" id="Zfq-3z-Oda"/>
+                    </connections>
+                </searchDisplayController>
             </objects>
+            <point key="canvasLocation" x="-879.20000000000005" y="50.824587706146929"/>
         </scene>
     </scenes>
 </document>

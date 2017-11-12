@@ -1,0 +1,6 @@
+framework module Pods_WorldCitiesList {
+  umbrella header "Pods-WorldCitiesList-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -5,23 +5,23 @@
                         "City": "aixas",
                         "AccentCity": "Aixas",
                         "Region": 6,
-                        "Population": 50101034,
+                        "Population": 501017,
                         "Latitude": 42.4833333,
                         "Longitude": 1.4666667
                         },
                         {
                         "Country": "ad",
-                        "City": "aixirivali",
-                        "AccentCity": "Aixirivali",
+                        "City": "axirivali",
+                        "AccentCity": "Axirivali",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4666667,
                         "Longitude": 1.5
                         },
                         {
                         "Country": "ad",
-                        "City": "aixirivall",
-                        "AccentCity": "Aixirivall",
+                        "City": "axirivall",
+                        "AccentCity": "Axirivall",
                         "Region": 6,
                         "Population": 187989,
                         "Latitude": 42.4666667,
@@ -29,35 +29,35 @@
                         },
                         {
                         "Country": "ad",
-                        "City": "aixirvall",
-                        "AccentCity": "Aixirvall",
+                        "City": "zirvall",
+                        "AccentCity": "zirvall",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4666667,
                         "Longitude": 1.5
                         },
                         {
                         "Country": "ad",
-                        "City": "aixovall",
-                        "AccentCity": "Aixovall",
+                        "City": "ovall",
+                        "AccentCity": "ovall",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4666667,
                         "Longitude": 1.4833333
                         },
                         {
                         "Country": "ad",
-                        "City": "andorra",
-                        "AccentCity": "Andorra",
+                        "City": "dorra",
+                        "AccentCity": "dorra",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5166667
                         },
                         {
                         "Country": "ad",
-                        "City": "andorra la vella",
-                        "AccentCity": "Andorra la Vella",
+                        "City": "dorra la vella",
+                        "AccentCity": "dorra la Vella",
                         "Region": 7,
                         "Population": 20430,
                         "Latitude": 42.5,
@@ -65,28 +65,28 @@
                         },
                         {
                         "Country": "ad",
-                        "City": "andorravieille",
-                        "AccentCity": "AndorraVieille",
+                        "City": "vieille",
+                        "AccentCity": "Vieille",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5166667
                         },
                         {
                         "Country": "ad",
-                        "City": "andorre",
-                        "AccentCity": "Andorre",
+                        "City": "vieille andorre",
+                        "AccentCity": "vieille Andorre",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5166667
                         },
                         {
                         "Country": "ad",
-                        "City": "andorrelavieille",
-                        "AccentCity": "AndorrelaVieille",
+                        "City": "vieille anior",
+                        "AccentCity": "Vieille anior",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5166667
                         },
@@ -95,7 +95,7 @@
                         "City": "andorrevieille",
                         "AccentCity": "AndorreVieille",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5166667
                         },
@@ -104,7 +104,7 @@
                         "City": "ansalonga",
                         "AccentCity": "Ansalonga",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.5166667
                         },
@@ -113,7 +113,7 @@
                         "City": "anyos",
                         "AccentCity": "Anys",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5333333,
                         "Longitude": 1.5333333
                         },
@@ -122,7 +122,7 @@
                         "City": "arans",
                         "AccentCity": "Arans",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5833333,
                         "Longitude": 1.5166667
                         },
@@ -131,7 +131,7 @@
                         "City": "arinsal",
                         "AccentCity": "Arinsal",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.4833333
                         },
@@ -140,7 +140,7 @@
                         "City": "aubinya",
                         "AccentCity": "Aubiny",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.45,
                         "Longitude": 1.5
                         },
@@ -149,7 +149,7 @@
                         "City": "auvinya",
                         "AccentCity": "Auvinya",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.45,
                         "Longitude": 1.5
                         },
@@ -158,7 +158,7 @@
                         "City": "bicisarri",
                         "AccentCity": "Bisarri",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4833333,
                         "Longitude": 1.4666667
                         },
@@ -167,7 +167,7 @@
                         "City": "bixessarri",
                         "AccentCity": "Bixessarri",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4833333,
                         "Longitude": 1.4666667
                         },
@@ -176,7 +176,7 @@
                         "City": "bixisarri",
                         "AccentCity": "Bixisarri",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4833333,
                         "Longitude": 1.4666667
                         },
@@ -194,7 +194,7 @@
                         "City": "casas vila",
                         "AccentCity": "Casas Vila",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5333333,
                         "Longitude": 1.5666667
                         },
@@ -203,7 +203,7 @@
                         "City": "certers",
                         "AccentCity": "Certers",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4666667,
                         "Longitude": 1.5
                         },
@@ -212,7 +212,7 @@
                         "City": "certes",
                         "AccentCity": "Certs",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4666667,
                         "Longitude": 1.5
                         },
@@ -221,7 +221,7 @@
                         "City": "eixirivall",
                         "AccentCity": "Eixirivall",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4666667,
                         "Longitude": 1.5
                         },
@@ -230,7 +230,7 @@
                         "City": "el pui",
                         "AccentCity": "El Pui",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.55,
                         "Longitude": 1.5166667
                         },
@@ -239,7 +239,7 @@
                         "City": "els bons",
                         "AccentCity": "Els Bons",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5333333,
                         "Longitude": 1.5833333
                         },
@@ -248,7 +248,7 @@
                         "City": "el serrat",
                         "AccentCity": "El Serrat",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.6166667,
                         "Longitude": 1.55
                         },
@@ -257,7 +257,7 @@
                         "City": "els plans",
                         "AccentCity": "Els Plans",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5833333,
                         "Longitude": 1.6333333
                         },
@@ -266,7 +266,7 @@
                         "City": "el tarter",
                         "AccentCity": "El Tarter",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5833333,
                         "Longitude": 1.65
                         },
@@ -275,7 +275,7 @@
                         "City": "el tremat",
                         "AccentCity": "El Tremat",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.55,
                         "Longitude": 1.5833333
                         },
@@ -284,7 +284,7 @@
                         "City": "el vilar",
                         "AccentCity": "El Vilar",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.6
                         },
@@ -302,7 +302,7 @@
                         "City": "engordany",
                         "AccentCity": "Engordany",
                         "Region": 8,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5166667,
                         "Longitude": 1.55
                         },
@@ -311,7 +311,7 @@
                         "City": "ercs",
                         "AccentCity": "Ercs",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.5
                         },
@@ -320,7 +320,7 @@
                         "City": "ercz",
                         "AccentCity": "Ercz",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.5
                         },
@@ -329,7 +329,7 @@
                         "City": "erez",
                         "AccentCity": "Erez",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.5
                         },
@@ -338,7 +338,7 @@
                         "City": "erts",
                         "AccentCity": "Erts",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.5
                         },
@@ -347,7 +347,7 @@
                         "City": "escaldas",
                         "AccentCity": "Escaldas",
                         "Region": 8,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5333333
                         },
@@ -356,7 +356,7 @@
                         "City": "escaldes",
                         "AccentCity": "Escaldes",
                         "Region": 8,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5,
                         "Longitude": 1.5333333
                         },
@@ -365,7 +365,7 @@
                         "City": "escas",
                         "AccentCity": "Escs",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.55,
                         "Longitude": 1.5166667
                         },
@@ -374,7 +374,7 @@
                         "City": "fontaneda",
                         "AccentCity": "Fontaneda",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.45,
                         "Longitude": 1.4666667
                         },
@@ -383,7 +383,7 @@
                         "City": "juberri",
                         "AccentCity": "Juberri",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4333333,
                         "Longitude": 1.5
                         },
@@ -392,7 +392,7 @@
                         "City": "juverri",
                         "AccentCity": "Juverri",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.4333333,
                         "Longitude": 1.5
                         },
@@ -401,7 +401,7 @@
                         "City": "la cortinada",
                         "AccentCity": "La Cortinada",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5666667,
                         "Longitude": 1.5166667
                         },
@@ -410,7 +410,7 @@
                         "City": "la costa",
                         "AccentCity": "La Costa",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.5833333,
                         "Longitude": 1.6333333
                         },
@@ -428,7 +428,7 @@
                         "City": "pau quebrado",
                         "AccentCity": "Pau Quebrado",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 3.323056,
                         "Longitude": 43.493611
                         },
@@ -437,7 +437,7 @@
                         "City": "pau queimado",
                         "AccentCity": "Pau Queimado",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 6.366667,
                         "Longitude": 61.766667
                         },
@@ -446,7 +446,7 @@
                         "City": "pau real",
                         "AccentCity": "Pau Real",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 4.45,
                         "Longitude": 44.85
                         },
@@ -455,7 +455,7 @@
                         "City": "pau sangue",
                         "AccentCity": "Pau Sangue",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.4,
                         "Longitude": 43.033333
                         },
@@ -464,7 +464,7 @@
                         "City": "paus branco",
                         "AccentCity": "Paus Branco",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 5.633333,
                         "Longitude": 39.666667
                         },
@@ -473,7 +473,7 @@
                         "City": "paus brancos",
                         "AccentCity": "Paus Brancos",
                         "Region": 22,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 5.373611,
                         "Longitude": 37.479167
                         },
@@ -482,7 +482,7 @@
                         "City": "paus brancos",
                         "AccentCity": "Paus Brancos",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 7.833333,
                         "Longitude": 38.3
                         },
@@ -491,7 +491,7 @@
                         "City": "pau seco",
                         "AccentCity": "Pau Sico",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 9.283333,
                         "Longitude": 37.766667
                         },
@@ -500,7 +500,7 @@
                         "City": "pau seco",
                         "AccentCity": "Pau Sico",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 14.133333,
                         "Longitude": 39
                         },
@@ -509,7 +509,7 @@
                         "City": "pau seco",
                         "AccentCity": "Pau Sico",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 20.2,
                         "Longitude": 45.55
                         },
@@ -518,7 +518,7 @@
                         "City": "paus grandes",
                         "AccentCity": "Paus Grandes",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 7.55,
                         "Longitude": 39.616667
                         },
@@ -527,7 +527,7 @@
                         "City": "paus",
                         "AccentCity": "Paus",
                         "Region": 20,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 9.55,
                         "Longitude": 44.683333
                         },
@@ -536,7 +536,7 @@
                         "City": "pau vermelho",
                         "AccentCity": "Pau Vermelho",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.15,
                         "Longitude": 39.45
                         },
@@ -545,7 +545,7 @@
                         "City": "pau vermelho",
                         "AccentCity": "Pau Vermelho",
                         "Region": 20,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 8.266667,
                         "Longitude": 41.9
                         },
@@ -554,7 +554,7 @@
                         "City": "pauxis",
                         "AccentCity": "Pauxis",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 3.366667,
                         "Longitude": 66.033333
                         },
@@ -563,7 +563,7 @@
                         "City": "pavao",
                         "AccentCity": "Pav o",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.65,
                         "Longitude": 38.766667
                         },
@@ -572,7 +572,7 @@
                         "City": "pavao",
                         "AccentCity": "Pav o",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 7.05,
                         "Longitude": 38.95
                         },
@@ -581,7 +581,7 @@
                         "City": "pavao",
                         "AccentCity": "Pav o",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 2.366667,
                         "Longitude": 44.6
                         },
@@ -590,7 +590,7 @@
                         "City": "pavao",
                         "AccentCity": "Pav o",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.433333,
                         "Longitude": 41
                         },
@@ -599,7 +599,7 @@
                         "City": "camauma",
                         "AccentCity": "Camauma",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 5.449722,
                         "Longitude": 62.853611
                         },
@@ -608,7 +608,7 @@
                         "City": "cambaiaba",
                         "AccentCity": "Cambaiaba",
                         "Region": 21,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 21.783333,
                         "Longitude": 41.25
                         },
@@ -617,7 +617,7 @@
                         "City": "cambajuva",
                         "AccentCity": "Cambajuva",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.333333,
                         "Longitude": 49.633333
                         },
@@ -626,7 +626,7 @@
                         "City": "cambaquara",
                         "AccentCity": "Cambaquara",
                         "Region": 27,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.9,
                         "Longitude": 45.45
                         },
@@ -635,7 +635,7 @@
                         "City": "cambara",
                         "AccentCity": "Cambar",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 16.233333,
                         "Longitude": 57.583333
                         },
@@ -653,7 +653,7 @@
                         "City": "cambara",
                         "AccentCity": "Cambar",
                         "Region": 23,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.033333,
                         "Longitude": 50.15
                         },
@@ -662,7 +662,7 @@
                         "City": "cambara",
                         "AccentCity": "Cambar",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.910071,
                         "Longitude": 49.805128
                         },
@@ -671,7 +671,7 @@
                         "City": "cambara",
                         "AccentCity": "Cambar",
                         "Region": 27,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 21.716667,
                         "Longitude": 49.016667
                         },
@@ -680,7 +680,7 @@
                         "City": "cambaras",
                         "AccentCity": "Cambaras",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 16.55,
                         "Longitude": 57.85
                         },
@@ -689,7 +689,7 @@
                         "City": "cambaratiba",
                         "AccentCity": "Cambaratiba",
                         "Region": 27,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 21.716667,
                         "Longitude": 49.016667
                         },
@@ -698,7 +698,7 @@
                         "City": "cambarazinho",
                         "AccentCity": "Cambarzinho",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.25,
                         "Longitude": 57.2
                         },
@@ -707,7 +707,7 @@
                         "City": "cambaru",
                         "AccentCity": "Cambar",
                         "Region": 18,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.446563,
                         "Longitude": 48.567797
                         },
@@ -716,7 +716,7 @@
                         "City": "zhaizhuang",
                         "AccentCity": "Zhaizhuang",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.816667,
                         "Longitude": 115.383333
                         },
@@ -725,7 +725,7 @@
                         "City": "zhaizhuangzi",
                         "AccentCity": "Zhaizhuangzi",
                         "Region": 28,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 38.578333,
                         "Longitude": 117.256389
                         },
@@ -734,7 +734,7 @@
                         "City": "zhaizhun",
                         "AccentCity": "Zhaizhun",
                         "Region": 16,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.830278,
                         "Longitude": 109.571944
                         },
@@ -743,7 +743,7 @@
                         "City": "zhaizibei",
                         "AccentCity": "Zhaizibei",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.570556,
                         "Longitude": 115.9575
                         },
@@ -752,7 +752,7 @@
                         "City": "zhaizibian",
                         "AccentCity": "Zhaizibian",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.255556,
                         "Longitude": 118.630278
                         },
@@ -761,7 +761,7 @@
                         "City": "zhaizicun",
                         "AccentCity": "Zhaizicun",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.679105,
                         "Longitude": 113.782043
                         },
@@ -770,7 +770,7 @@
                         "City": "zhaizicun",
                         "AccentCity": "Zhaizicun",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.988333,
                         "Longitude": 115.398333
                         },
@@ -779,7 +779,7 @@
                         "City": "zhaizicun",
                         "AccentCity": "Zhaizicun",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 20.995155,
                         "Longitude": 109.932632
                         },
@@ -788,7 +788,7 @@
                         "City": "zhaiziding",
                         "AccentCity": "Zhaiziding",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.231232,
                         "Longitude": 104.607994
                         },
@@ -797,7 +797,7 @@
                         "City": "zhaizigou",
                         "AccentCity": "Zhaizigou",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.83801,
                         "Longitude": 112.508192
                         },
@@ -806,7 +806,7 @@
                         "City": "zhaizigou",
                         "AccentCity": "Zhaizigou",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.678809,
                         "Longitude": 102.889193
                         },
@@ -815,7 +815,7 @@
                         "City": "zhaizihou",
                         "AccentCity": "Zhaizihou",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.270556,
                         "Longitude": 118.323611
                         },
@@ -824,7 +824,7 @@
                         "City": "zhaizikou",
                         "AccentCity": "Zhaizikou",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.382849,
                         "Longitude": 118.045774
                         },
@@ -833,7 +833,7 @@
                         "City": "zhaiziliang",
                         "AccentCity": "Zhaiziliang",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.901689,
                         "Longitude": 107.073176
                         },
@@ -842,7 +842,7 @@
                         "City": "zhaiziliang",
                         "AccentCity": "Zhaiziliang",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.833282,
                         "Longitude": 106.043272
                         },
@@ -851,7 +851,7 @@
                         "City": "zhaiziling",
                         "AccentCity": "Zhaiziling",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.321497,
                         "Longitude": 107.3159
                         },
@@ -860,7 +860,7 @@
                         "City": "zhaizili",
                         "AccentCity": "Zhaizili",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.749596,
                         "Longitude": 105.032303
                         },
@@ -869,7 +869,7 @@
                         "City": "zhaizilun",
                         "AccentCity": "Zhaizilun",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.949167,
                         "Longitude": 117.991111
                         },
@@ -878,7 +878,7 @@
                         "City": "zhaiziping",
                         "AccentCity": "Zhaiziping",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.921944,
                         "Longitude": 117.605556
                         },
@@ -887,7 +887,7 @@
                         "City": "zhaiziping",
                         "AccentCity": "Zhaiziping",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.147709,
                         "Longitude": 104.806414
                         },
@@ -896,7 +896,7 @@
                         "City": "zhaizipo",
                         "AccentCity": "Zhaizipo",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.856261,
                         "Longitude": 111.032609
                         },
@@ -905,7 +905,7 @@
                         "City": "zhaizipo",
                         "AccentCity": "Zhaizipo",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.577391,
                         "Longitude": 105.380736
                         },
@@ -914,7 +914,7 @@
                         "City": "zhaizipu",
                         "AccentCity": "Zhaizipu",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.956746,
                         "Longitude": 117.262657
                         },
@@ -923,7 +923,7 @@
                         "City": "zhaizishang",
                         "AccentCity": "Zhaizishang",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.754825,
                         "Longitude": 109.157875
                         },
@@ -932,7 +932,7 @@
                         "City": "zhaizishang",
                         "AccentCity": "Zhaizishang",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.087531,
                         "Longitude": 106.294125
                         },
@@ -941,7 +941,7 @@
                         "City": "zhaizishang",
                         "AccentCity": "Zhaizishang",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.896837,
                         "Longitude": 104.034024
                         },
@@ -950,7 +950,7 @@
                         "City": "zhaizishanxiaba",
                         "AccentCity": "Zhaizishanxiaba",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.288802,
                         "Longitude": 103.596583
                         },
@@ -959,7 +959,7 @@
                         "City": "zhaizishan",
                         "AccentCity": "Zhaizishan",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.986389,
                         "Longitude": 112.0075
                         },
@@ -968,7 +968,7 @@
                         "City": "zhaizishi",
                         "AccentCity": "Zhaizishi",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.16793,
                         "Longitude": 115.894169
                         },
@@ -977,7 +977,7 @@
                         "City": "zhaizitan",
                         "AccentCity": "Zhaizitan",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.7,
                         "Longitude": 102.4
                         },
@@ -986,7 +986,7 @@
                         "City": "zhaiziwang",
                         "AccentCity": "Zhaiziwang",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.509881,
                         "Longitude": 113.531082
                         },
@@ -995,7 +995,7 @@
                         "City": "zhaiziwan",
                         "AccentCity": "Zhaiziwan",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.773653,
                         "Longitude": 111.466933
                         },
@@ -1004,7 +1004,7 @@
                         "City": "zhaiziwan",
                         "AccentCity": "Zhaiziwan",
                         "Region": 24,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.266667,
                         "Longitude": 110.783333
                         },
@@ -1013,7 +1013,7 @@
                         "City": "zhaiziwan",
                         "AccentCity": "Zhaiziwan",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.913889,
                         "Longitude": 109.884722
                         },
@@ -1022,7 +1022,7 @@
                         "City": "zhaiziwan",
                         "AccentCity": "Zhaiziwan",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.503476,
                         "Longitude": 106.196047
                         },
@@ -1031,7 +1031,7 @@
                         "City": "zhaiziwo",
                         "AccentCity": "Zhaiziwo",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.249511,
                         "Longitude": 115.790848
                         },
@@ -1040,7 +1040,7 @@
                         "City": "zhaizixia",
                         "AccentCity": "Zhaizixia",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.997476,
                         "Longitude": 114.929851
                         },
@@ -1049,7 +1049,7 @@
                         "City": "zhaizixia",
                         "AccentCity": "Zhaizixia",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.678056,
                         "Longitude": 116.093611
                         },
@@ -1058,7 +1058,7 @@
                         "City": "zhaiziyang",
                         "AccentCity": "Zhaiziyang",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.037888,
                         "Longitude": 112.098505
                         },
@@ -1067,7 +1067,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.110556,
                         "Longitude": 117.683056
                         },
@@ -1076,7 +1076,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.841944,
                         "Longitude": 116.941111
                         },
@@ -1085,7 +1085,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.103259,
                         "Longitude": 104.931957
                         },
@@ -1094,7 +1094,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 24,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.934062,
                         "Longitude": 111.434417
                         },
@@ -1103,7 +1103,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.151111,
                         "Longitude": 117.887222
                         },
@@ -1112,7 +1112,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.631389,
                         "Longitude": 108.753611
                         },
@@ -1121,7 +1121,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.379654,
                         "Longitude": 111.369827
                         },
@@ -1130,7 +1130,7 @@
                         "City": "zhaizi",
                         "AccentCity": "Zhaizi",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.641858,
                         "Longitude": 103.168638
                         },
@@ -1139,7 +1139,7 @@
                         "City": "zhaizui",
                         "AccentCity": "Zhaizui",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.947222,
                         "Longitude": 117.086111
                         },
@@ -1148,7 +1148,7 @@
                         "City": "zhajiadian",
                         "AccentCity": "Zhajiadian",
                         "Region": 19,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 40.536859,
                         "Longitude": 119.733624
                         },
@@ -1157,7 +1157,7 @@
                         "City": "zhajiadong",
                         "AccentCity": "Zhajiadong",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.187307,
                         "Longitude": 114.014741
                         },
@@ -1166,7 +1166,7 @@
                         "City": "zhajiangda",
                         "AccentCity": "Zhajiangda",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.668489,
                         "Longitude": 99.980191
                         },
@@ -1175,7 +1175,7 @@
                         "City": "zhajiang",
                         "AccentCity": "Zhajiang",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.179444,
                         "Longitude": 112.393611
                         },
@@ -1184,7 +1184,7 @@
                         "City": "zhajiang",
                         "AccentCity": "Zhajiang",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.601,
                         "Longitude": 87.501
                         },
@@ -1193,7 +1193,7 @@
                         "City": "zhajiaota",
                         "AccentCity": "Zhajiaota",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.702928,
                         "Longitude": 103.13949
                         },
@@ -1202,7 +1202,7 @@
                         "City": "zhajia",
                         "AccentCity": "Zhajia",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.870535,
                         "Longitude": 117.316924
                         },
@@ -1211,7 +1211,7 @@
                         "City": "zhajin",
                         "AccentCity": "Zhajin",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.009612,
                         "Longitude": 114.235968
                         },
@@ -1220,7 +1220,7 @@
                         "City": "zhajin zhen",
                         "AccentCity": "Zhajin Zhen",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.009612,
                         "Longitude": 114.235968
                         },
@@ -1229,7 +1229,7 @@
                         "City": "zhaji",
                         "AccentCity": "Zhaji",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.516667,
                         "Longitude": 118.033333
                         },
@@ -1238,7 +1238,7 @@
                         "City": "zhakaduo",
                         "AccentCity": "Zhakaduo",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.967286,
                         "Longitude": 99.549547
                         },
@@ -1247,7 +1247,7 @@
                         "City": "zhakang",
                         "AccentCity": "Zhakang",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.801,
                         "Longitude": 89.101
                         },
@@ -1256,7 +1256,7 @@
                         "City": "zhake",
                         "AccentCity": "Zhake",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.913689,
                         "Longitude": 99.612391
                         },
@@ -1265,7 +1265,7 @@
                         "City": "zhakongda",
                         "AccentCity": "Zhakongda",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.110289,
                         "Longitude": 99.274691
                         },
@@ -1274,7 +1274,7 @@
                         "City": "zhakoudong",
                         "AccentCity": "Zhakoudong",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.558413,
                         "Longitude": 107.012178
                         },
@@ -1283,7 +1283,7 @@
                         "City": "zhakoushi",
                         "AccentCity": "Zhakoushi",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.643032,
                         "Longitude": 106.727643
                         },
@@ -1292,7 +1292,7 @@
                         "City": "zhakoushi",
                         "AccentCity": "Zhakoushi",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.069111,
                         "Longitude": 105.918396
                         },
@@ -1301,7 +1301,7 @@
                         "City": "zhakou xiang",
                         "AccentCity": "Zhakou Xiang",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.851959,
                         "Longitude": 111.500745
                         },
@@ -1310,7 +1310,7 @@
                         "City": "zhakouyan",
                         "AccentCity": "Zhakouyan",
                         "Region": 32,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.820601,
                         "Longitude": 104.093635
                         },
@@ -1319,7 +1319,7 @@
                         "City": "zhakou",
                         "AccentCity": "Zhakou",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.103112,
                         "Longitude": 118.170818
                         },
@@ -1328,7 +1328,7 @@
                         "City": "zhakou",
                         "AccentCity": "Zhakou",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.377336,
                         "Longitude": 120.752955
                         },
@@ -1337,7 +1337,7 @@
                         "City": "zhakou",
                         "AccentCity": "Zhakou",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.49295,
                         "Longitude": 120.644207
                         },
@@ -1346,7 +1346,7 @@
                         "City": "zhakou",
                         "AccentCity": "Zhakou",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.851959,
                         "Longitude": 111.500745
                         },
@@ -1355,7 +1355,7 @@
                         "City": "grossefehn",
                         "AccentCity": "Grossefehn",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.4,
                         "Longitude": 7.55
                         },
@@ -1364,7 +1364,7 @@
                         "City": "grosseggenberg",
                         "AccentCity": "Groeggenberg",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.366667,
                         "Longitude": 12.683333
                         },
@@ -1373,7 +1373,7 @@
                         "City": "grosseglsee",
                         "AccentCity": "Groeglsee",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.866667,
                         "Longitude": 11.55
                         },
@@ -1382,7 +1382,7 @@
                         "City": "grosse heide",
                         "AccentCity": "Groe Heide",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.216667,
                         "Longitude": 7.983333
                         },
@@ -1391,7 +1391,7 @@
                         "City": "grosseheide",
                         "AccentCity": "Groeheide",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.05,
                         "Longitude": 7.2
                         },
@@ -1400,7 +1400,7 @@
                         "City": "grossehohe",
                         "AccentCity": "Groehhe",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.3,
                         "Longitude": 7.066667
                         },
@@ -1409,7 +1409,7 @@
                         "City": "grosseholz",
                         "AccentCity": "Groeholz",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.966667,
                         "Longitude": 9.766667
                         },
@@ -1418,7 +1418,7 @@
                         "City": "grosseholz",
                         "AccentCity": "Groeholz",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.416667,
                         "Longitude": 8.433333
                         },
@@ -1427,7 +1427,7 @@
                         "City": "grosseibstadt",
                         "AccentCity": "Groeibstadt",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.3,
                         "Longitude": 10.416667
                         },
@@ -1436,7 +1436,7 @@
                         "City": "gross eichen",
                         "AccentCity": "Gro Eichen",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.6,
                         "Longitude": 9.066667
                         },
@@ -1445,7 +1445,7 @@
                         "City": "grosseichenhausen",
                         "AccentCity": "Groeichenhausen",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.95,
                         "Longitude": 11.6
                         },
@@ -1454,7 +1454,7 @@
                         "City": "gross eichholz",
                         "AccentCity": "Gro Eichholz",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.166667,
                         "Longitude": 13.866667
                         },
@@ -1463,7 +1463,7 @@
                         "City": "grosseicholzheim",
                         "AccentCity": "Groeicholzheim",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.45,
                         "Longitude": 9.283333
                         },
@@ -1472,7 +1472,7 @@
                         "City": "grosseichsen",
                         "AccentCity": "Groeichsen",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.75,
                         "Longitude": 11.25
                         },
@@ -1481,7 +1481,7 @@
                         "City": "gross eicklingen",
                         "AccentCity": "Gro Eicklingen",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.566667,
                         "Longitude": 10.183333
                         },
@@ -1490,7 +1490,7 @@
                         "City": "gross eigen",
                         "AccentCity": "Gro Eigen",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.916667,
                         "Longitude": 7.216667
                         },
@@ -1499,7 +1499,7 @@
                         "City": "gross eilstorf",
                         "AccentCity": "Gro Eilstorf",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.816667,
                         "Longitude": 9.45
                         },
@@ -1508,7 +1508,7 @@
                         "City": "grosseisenbach",
                         "AccentCity": "Groeisenbach",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.366667,
                         "Longitude": 11.6
                         },
@@ -1517,7 +1517,7 @@
                         "City": "gross eissel",
                         "AccentCity": "Gro Eissel",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.95,
                         "Longitude": 9.2
                         },
@@ -1526,7 +1526,7 @@
                         "City": "gross elbe",
                         "AccentCity": "Gro Elbe",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.1,
                         "Longitude": 10.283333
                         },
@@ -1535,7 +1535,7 @@
                         "City": "grosseledder",
                         "AccentCity": "GroeLedder",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.1,
                         "Longitude": 7.216667
                         },
@@ -1544,7 +1544,7 @@
                         "City": "grosselfingen",
                         "AccentCity": "Grosselfingen",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.333333,
                         "Longitude": 8.883333
                         },
@@ -1553,7 +1553,7 @@
                         "City": "grosselfingen",
                         "AccentCity": "Groelfingen",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.85,
                         "Longitude": 10.55
                         },
@@ -1562,7 +1562,7 @@
                         "City": "gross ellenberg",
                         "AccentCity": "Gro Ellenberg",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.933333,
                         "Longitude": 10.75
                         },
@@ -1571,7 +1571,7 @@
                         "City": "gross ellerbull",
                         "AccentCity": "Gro Ellerbll",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 54.55,
                         "Longitude": 8.983333
                         },
@@ -1580,7 +1580,7 @@
                         "City": "gross ellershausen",
                         "AccentCity": "Gro Ellershausen",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.516667,
                         "Longitude": 9.866667
                         },
@@ -1589,7 +1589,7 @@
                         "City": "gross ellingen",
                         "AccentCity": "Gro Ellingen",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.7,
                         "Longitude": 11.966667
                         },
@@ -1598,7 +1598,7 @@
                         "City": "gross elmenhorst",
                         "AccentCity": "Gro Elmenhorst",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 54.216667,
                         "Longitude": 13.05
                         },
@@ -1607,7 +1607,7 @@
                         "City": "grosse muhle",
                         "AccentCity": "Groe Mhle",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.633333,
                         "Longitude": 12.35
                         },
@@ -1616,7 +1616,7 @@
                         "City": "grossenaspe",
                         "AccentCity": "Groenaspe",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.983333,
                         "Longitude": 9.966667
                         },
@@ -1625,7 +1625,7 @@
                         "City": "grossenasperfeld",
                         "AccentCity": "Groenasperfeld",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.95,
                         "Longitude": 9.966667
                         },
@@ -1634,7 +1634,7 @@
                         "City": "grossenast",
                         "AccentCity": "Groenast",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.666667,
                         "Longitude": 11.066667
                         },
@@ -1643,7 +1643,7 @@
                         "City": "grossenau",
                         "AccentCity": "Grossenau",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.116667,
                         "Longitude": 11.783333
                         },
@@ -1652,7 +1652,7 @@
                         "City": "grossenbach",
                         "AccentCity": "Groenbach",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.683333,
                         "Longitude": 9.816667
                         },
@@ -1661,7 +1661,7 @@
                         "City": "grossenbach",
                         "AccentCity": "Groenbach",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.916667,
                         "Longitude": 8.25
                         },
@@ -1670,7 +1670,7 @@
                         "City": "grossenbaum",
                         "AccentCity": "Groenbaum",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.366667,
                         "Longitude": 6.783333
                         },
@@ -1679,7 +1679,7 @@
                         "City": "grossenbehringen",
                         "AccentCity": "Groenbehringen",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.033333,
                         "Longitude": 10.516667
                         },
@@ -1688,7 +1688,7 @@
                         "City": "grossenberg",
                         "AccentCity": "Groenberg",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.95,
                         "Longitude": 9.3
                         },
@@ -1697,7 +1697,7 @@
                         "City": "grossenberken",
                         "AccentCity": "Groenberken",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.266667,
                         "Longitude": 8.733333
                         },
@@ -1706,7 +1706,7 @@
                         "City": "grossenbernberg",
                         "AccentCity": "Groenbernberg",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.016667,
                         "Longitude": 7.583333
                         },
@@ -1715,7 +1715,7 @@
                         "City": "grossenbornholt",
                         "AccentCity": "Groenbornholt",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 54.1,
                         "Longitude": 9.333333
                         },
@@ -1724,7 +1724,7 @@
                         "City": "grossenborstel",
                         "AccentCity": "Groenborstel",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.883333,
                         "Longitude": 9.016667
                         },
@@ -1733,7 +1733,7 @@
                         "City": "grossenbrach",
                         "AccentCity": "Groenbrach",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.25,
                         "Longitude": 10.083333
                         },
@@ -1742,7 +1742,7 @@
                         "City": "grossenbreden",
                         "AccentCity": "Groenbreden",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.833333,
                         "Longitude": 9.25
                         },
@@ -1751,7 +1751,7 @@
                         "City": "grossenbrode",
                         "AccentCity": "Groenbrode",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 54.383333,
                         "Longitude": 11.083333
                         },
@@ -1760,7 +1760,7 @@
                         "City": "grossenbrodekai",
                         "AccentCity": "GroenbrodeKai",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 54.366667,
                         "Longitude": 11.083333
                         },
@@ -1769,7 +1769,7 @@
                         "City": "grossenbroderfahre",
                         "AccentCity": "Groenbroderfhre",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 54.383333,
                         "Longitude": 11.2
                         },
@@ -1778,7 +1778,7 @@
                         "City": "grossenbuch",
                         "AccentCity": "Groenbuch",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.616667,
                         "Longitude": 11.166667
                         },
@@ -1787,7 +1787,7 @@
                         "City": "grossen buseck",
                         "AccentCity": "Groen Buseck",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.6,
                         "Longitude": 8.783333
                         },
@@ -1796,7 +1796,7 @@
                         "City": "grossendorferheide",
                         "AccentCity": "Groendorferheide",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.816667,
                         "Longitude": 9.766667
                         },
@@ -1805,7 +1805,7 @@
                         "City": "grossendorf",
                         "AccentCity": "Groendorf",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.8,
                         "Longitude": 9.783333
                         },
@@ -1814,7 +1814,7 @@
                         "City": "grossendrehscheid",
                         "AccentCity": "Groendrehscheid",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.266667,
                         "Longitude": 7.65
                         },
@@ -1823,7 +1823,7 @@
                         "City": "grossendrescheid",
                         "AccentCity": "Groendrescheid",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.266667,
                         "Longitude": 7.65
                         },
@@ -1832,7 +1832,7 @@
                         "City": "grosseneder",
                         "AccentCity": "Groeneder",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.55,
                         "Longitude": 10.166667
                         },
@@ -1841,7 +1841,7 @@
                         "City": "grossenehrich",
                         "AccentCity": "Groenehrich",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.25,
                         "Longitude": 10.833333
                         },
@@ -1850,7 +1850,7 @@
                         "City": "grossenehrichwest",
                         "AccentCity": "GroenehrichWest",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.25,
                         "Longitude": 10.8
                         },
@@ -1859,7 +1859,7 @@
                         "City": "grossenenglis",
                         "AccentCity": "Groenenglis",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.066667,
                         "Longitude": 9.266667
                         },
@@ -1868,7 +1868,7 @@
                         "City": "grossenfalz",
                         "AccentCity": "Groenfalz",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.533333,
                         "Longitude": 11.716667
                         },
@@ -1877,7 +1877,7 @@
                         "City": "gross engersen",
                         "AccentCity": "Gr Engersen",
                         "Region": 14,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.616667,
                         "Longitude": 11.35
                         },
@@ -1886,7 +1886,7 @@
                         "City": "grossenging",
                         "AccentCity": "Groenging",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.833333,
                         "Longitude": 7.833333
                         },
@@ -1895,7 +1895,7 @@
                         "City": "grossengottern",
                         "AccentCity": "Groengottern",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.15,
                         "Longitude": 10.583333
                         },
@@ -1904,7 +1904,7 @@
                         "City": "grossengsee",
                         "AccentCity": "Groengsee",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.633333,
                         "Longitude": 11.366667
                         },
@@ -1913,7 +1913,7 @@
                         "City": "grossengstingen",
                         "AccentCity": "Groengstingen",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.383333,
                         "Longitude": 9.283333
                         },
@@ -1922,7 +1922,7 @@
                         "City": "grossenhag",
                         "AccentCity": "Groenhag",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.5,
                         "Longitude": 11.466667
                         },
@@ -1931,7 +1931,7 @@
                         "City": "grossenhain",
                         "AccentCity": "Groenhain",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.566667,
                         "Longitude": 8.966667
                         },
@@ -1940,7 +1940,7 @@
                         "City": "grossenhain",
                         "AccentCity": "Groenhain",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.283333,
                         "Longitude": 13.55
                         },
@@ -1949,7 +1949,7 @@
                         "City": "grossenhalm",
                         "AccentCity": "Groenhalm",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.183333,
                         "Longitude": 8.7
                         },
@@ -1958,7 +1958,7 @@
                         "City": "grossenhausen",
                         "AccentCity": "Groenhausen",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.166667,
                         "Longitude": 9.2
                         },
@@ -1967,7 +1967,7 @@
                         "City": "grossenhecken",
                         "AccentCity": "Groenhecken",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.9,
                         "Longitude": 7.216667
                         },
@@ -1976,7 +1976,7 @@
                         "City": "grossenheerse",
                         "AccentCity": "Groenheerse",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.45,
                         "Longitude": 8.983333
                         },
@@ -1985,7 +1985,7 @@
                         "City": "grossenheide",
                         "AccentCity": "Groenheide",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.4,
                         "Longitude": 8.483333
                         },
@@ -1994,7 +1994,7 @@
                         "City": "grossenheidorn",
                         "AccentCity": "Groenheidorn",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.433333,
                         "Longitude": 9.416667
                         },
@@ -2003,7 +2003,7 @@
                         "City": "grossenhof",
                         "AccentCity": "Groenhof",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.933333,
                         "Longitude": 11.2
                         },
@@ -2012,7 +2012,7 @@
                         "City": "grossenhub",
                         "AccentCity": "Groenhub",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.083333,
                         "Longitude": 10.166667
                         },
@@ -2021,7 +2021,7 @@
                         "City": "grossenhul",
                         "AccentCity": "Groenhl",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.983333,
                         "Longitude": 11.333333
                         },
@@ -2030,7 +2030,7 @@
                         "City": "grossenhull",
                         "AccentCity": "Groenhll",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.983333,
                         "Longitude": 11.333333
                         },
@@ -2039,7 +2039,7 @@
                         "City": "grossenkneten",
                         "AccentCity": "Groenkneten",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 52.95,
                         "Longitude": 8.266667
                         },
@@ -2048,7 +2048,7 @@
                         "City": "grossen lengden",
                         "AccentCity": "Groen Lengden",
                         "Region": 6,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.516667,
                         "Longitude": 10.033333
                         },
@@ -2057,7 +2057,7 @@
                         "City": "grossenlinden",
                         "AccentCity": "Groenlinden",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.533333,
                         "Longitude": 8.65
                         },
@@ -2066,7 +2066,7 @@
                         "City": "grossen luckow",
                         "AccentCity": "Groen Luckow",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 53.683333,
                         "Longitude": 12.516667
                         },
@@ -2075,7 +2075,7 @@
                         "City": "grossenluder",
                         "AccentCity": "Groenlder",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.583333,
                         "Longitude": 9.533333
                         },
@@ -2084,7 +2084,7 @@
                         "City": "grossenlupnitz",
                         "AccentCity": "Groenlupnitz",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51,
                         "Longitude": 10.416667
                         },
@@ -2093,7 +2093,7 @@
                         "City": "grossenmarpe",
                         "AccentCity": "Groenmarpe",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 51.983333,
                         "Longitude": 9.016667
                         },
@@ -2102,7 +2102,7 @@
                         "City": "grossenmoor",
                         "AccentCity": "Groenmoor",
                         "Region": 5,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 50.7,
                         "Longitude": 9.65
                         },
@@ -2111,7 +2111,7 @@
                         "City": "ez zloua",
                         "AccentCity": "Ez Zloua",
                         "Region": 27,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.8497222,
                         "Longitude": 3.7275
                         },
@@ -2120,7 +2120,7 @@
                         "City": "ez zmala",
                         "AccentCity": "Ez Zmala",
                         "Region": 39,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.8833333,
                         "Longitude": 4.9333333
                         },
@@ -2129,7 +2129,7 @@
                         "City": "ez zoubia",
                         "AccentCity": "Ez Zoubia",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.0969444,
                         "Longitude": 0.8
                         },
@@ -2138,7 +2138,7 @@
                         "City": "ez zoubia",
                         "AccentCity": "Ez Zoubia",
                         "Region": 51,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.6955556,
                         "Longitude": 0.8244444
                         },
@@ -2147,7 +2147,7 @@
                         "City": "faidherbe",
                         "AccentCity": "Faidherbe",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.3666667,
                         "Longitude": 1.3833333
                         },
@@ -2156,7 +2156,7 @@
                         "City": "fais",
                         "AccentCity": "Fais",
                         "Region": 3,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.515,
                         "Longitude": 6.75
                         },
@@ -2165,7 +2165,7 @@
                         "City": "falcon",
                         "AccentCity": "Falcon",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.7663889,
                         "Longitude": 0.7980556
                         },
@@ -2174,7 +2174,7 @@
                         "City": "farfar",
                         "AccentCity": "Farfar",
                         "Region": 19,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.7333333,
                         "Longitude": 5.4
                         },
@@ -2183,7 +2183,7 @@
                         "City": "fatis",
                         "AccentCity": "Fatis",
                         "Region": 0,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.7333333,
                         "Longitude": 0.65
                         },
@@ -2192,7 +2192,7 @@
                         "City": "faubourg oued",
                         "AccentCity": "Faubourg oued",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.4005556,
                         "Longitude": 0.1366667
                         },
@@ -2201,7 +2201,7 @@
                         "City": "faubourg bab",
                         "AccentCity": "Faubourg Bab",
                         "Region": 1,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.8,
                         "Longitude": 3.05
                         },
@@ -2210,7 +2210,7 @@
                         "City": "faubourg bel air",
                         "AccentCity": "Faubourg Bel Air",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.4,
                         "Longitude": 0.15
                         },
@@ -2219,7 +2219,7 @@
                         "City": "faubourg bou",
                         "AccentCity": "Faubourg Bou",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.2,
                         "Longitude": 0.6
                         },
@@ -2228,7 +2228,7 @@
                         "City": "faubourg l",
                         "AccentCity": "Faubourg l",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.3722222,
                         "Longitude": 6.6252778
                         },
@@ -2237,7 +2237,7 @@
                         "City": "faubourg m",
                         "AccentCity": "Faubourg m",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.290909,
                         "Longitude": 0.65
                         },
@@ -2246,7 +2246,7 @@
                         "City": "faubourg martin",
                         "AccentCity": "Faubourg martin",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.4,
                         "Longitude": 0.1333333
                         },
@@ -2255,7 +2255,7 @@
                         "City": "faubourg n",
                         "AccentCity": "Faubourg n",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.1833333,
                         "Longitude": 0.6333333
                         },
@@ -2264,7 +2264,7 @@
                         "City": "faubourg sainte",
                         "AccentCity": "Faubourg Sainte",
                         "Region": 31,
-                        "Population": "",
+                        "Population": 4507,
                         "Latitude": 36.9,
                         "Longitude": 7.75
                         },
@@ -2273,7 +2273,7 @@
                         "City": "faubourg ga",
                         "AccentCity": "Faubourg ga",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 45777,
                         "Latitude": 35.200000,
                         "Longitude": 0.6333333
                         },
@@ -2282,7 +2282,7 @@
                         "City": "faubourg la",
                         "AccentCity": "Faubourg la",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.3722222,
                         "Longitude": 6.6252778
                         },
@@ -2291,7 +2291,7 @@
                         "City": "faubourg ma",
                         "AccentCity": "Faubourg ma",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.290909,
                         "Longitude": 0.65
                         },
@@ -2300,7 +2300,7 @@
                         "City": "faubourg martina",
                         "AccentCity": "Faubourg martina",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.4,
                         "Longitude": 0.1333333
                         },
@@ -2309,7 +2309,7 @@
                         "City": "faubourg na",
                         "AccentCity": "Faubourg na",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.1833333,
                         "Longitude": 0.6333333
                         },
@@ -2318,7 +2318,7 @@
                         "City": "faubourg saintea",
                         "AccentCity": "Faubourg Saintea",
                         "Region": 31,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.9,
                         "Longitude": 7.75
                         },
@@ -2327,7 +2327,7 @@
                         "City": "faubourg saint jean",
                         "AccentCity": "Faubourg Saint Jean",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.3611111,
                         "Longitude": 6.6038889
                         },
@@ -2336,7 +2336,7 @@
                         "City": "faubourg thiers",
                         "AccentCity": "Faubourg Thiers",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.1833333,
                         "Longitude": 0.65
                         },
@@ -2345,7 +2345,7 @@
                         "City": "faucigny",
                         "AccentCity": "Faucigny",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.2538889,
                         "Longitude": 5.265
                         },
@@ -2354,7 +2354,7 @@
                         "City": "fauvelle",
                         "AccentCity": "Fauvelle",
                         "Region": 37,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.3738889,
                         "Longitude": 7.7947222
                         },
@@ -2363,7 +2363,7 @@
                         "City": "feddane sellah",
                         "AccentCity": "Feddane Sellah",
                         "Region": 15,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.0038889,
                         "Longitude": 1.835
                         },
@@ -2372,7 +2372,7 @@
                         "City": "fedj ed dedjal",
                         "AccentCity": "Fedj ed Dedjal",
                         "Region": 37,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.7166667,
                         "Longitude": 8.1833333
                         },
@@ -2381,7 +2381,7 @@
                         "City": "fedj mzala",
                         "AccentCity": "Fedj MZala",
                         "Region": 4,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.4,
                         "Longitude": 5.95
                         },
@@ -2390,7 +2390,7 @@
                         "City": "fedoul",
                         "AccentCity": "Fedoul",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.4833333,
                         "Longitude": 2.1166667
                         },
@@ -2399,7 +2399,7 @@
                         "City": "feghaiha",
                         "AccentCity": "Feghaiha",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.25,
                         "Longitude": 2.0166667
                         },
@@ -2408,7 +2408,7 @@
                         "City": "feidh el botma",
                         "AccentCity": "Feidh el Botma",
                         "Region": 27,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.5,
                         "Longitude": 3.7666667
                         },
@@ -2417,7 +2417,7 @@
                         "City": "feldene",
                         "AccentCity": "Feldene",
                         "Region": 18,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.5,
                         "Longitude": 4.5333333
                         },
@@ -2426,7 +2426,7 @@
                         "City": "felden",
                         "AccentCity": "Felden",
                         "Region": 18,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.5,
                         "Longitude": 4.5333333
                         },
@@ -2435,7 +2435,7 @@
                         "City": "felix faure",
                         "AccentCity": "Felix Faure",
                         "Region": 40,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.7247222,
                         "Longitude": 3.6152778
                         },
@@ -2444,7 +2444,7 @@
                         "City": "fendi",
                         "AccentCity": "Fendi",
                         "Region": 38,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.8397222,
                         "Longitude": 1.4761111
                         },
@@ -2453,7 +2453,7 @@
                         "City": "fenoughil",
                         "AccentCity": "Fenoughil",
                         "Region": 0,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.6666667,
                         "Longitude": 0.3
                         },
@@ -2462,7 +2462,7 @@
                         "City": "fenourhil",
                         "AccentCity": "Fenourhil",
                         "Region": 0,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.6666667,
                         "Longitude": 0.3
                         },
@@ -2471,7 +2471,7 @@
                         "City": "ferah",
                         "AccentCity": "Ferah",
                         "Region": 41,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.5061111,
                         "Longitude": 1.2691667
                         },
@@ -2480,7 +2480,7 @@
                         "City": "feraoun",
                         "AccentCity": "Feraoun",
                         "Region": 0,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.4,
                         "Longitude": 0.35
                         },
@@ -2489,7 +2489,7 @@
                         "City": "feraoun",
                         "AccentCity": "Feraoun",
                         "Region": 18,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 36.5416667,
                         "Longitude": 4.8716667
                         },
@@ -2498,7 +2498,7 @@
                         "City": "ferastia",
                         "AccentCity": "Ferastia",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.6,
                         "Longitude": 1.3166667
                         },
@@ -2507,7 +2507,7 @@
                         "City": "feratsa",
                         "AccentCity": "Feratsa",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.4666667,
                         "Longitude": 0.75
                         },
@@ -2516,7 +2516,7 @@
                         "City": "fercha",
                         "AccentCity": "Fercha",
                         "Region": 39,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.8,
                         "Longitude": 4.5
                         },
@@ -2525,7 +2525,7 @@
                         "City": "germagny",
                         "AccentCity": "Germagny",
                         "Region": "A1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.671188,
                         "Longitude": 4.602974
                         },
@@ -2534,7 +2534,7 @@
                         "City": "germagny",
                         "AccentCity": "Germagny",
                         "Region": "B9",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 45.857985,
                         "Longitude": 5.995212
                         },
@@ -2543,7 +2543,7 @@
                         "City": "germaine",
                         "AccentCity": "Germaine",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.11451,
                         "Longitude": 4.031049
                         },
@@ -2552,7 +2552,7 @@
                         "City": "germaine",
                         "AccentCity": "Germaine",
                         "Region": "B6",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.783333,
                         "Longitude": 3.116667
                         },
@@ -2561,7 +2561,7 @@
                         "City": "germaines",
                         "AccentCity": "Germaines",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.797788,
                         "Longitude": 5.031665
                         },
@@ -2570,7 +2570,7 @@
                         "City": "germainville",
                         "AccentCity": "Germainville",
                         "Region": "A3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.741831,
                         "Longitude": 1.482172
                         },
@@ -2579,7 +2579,7 @@
                         "City": "germainvilliers",
                         "AccentCity": "Germainvilliers",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.116068,
                         "Longitude": 5.645565
                         },
@@ -2588,7 +2588,7 @@
                         "City": "germane",
                         "AccentCity": "Germane",
                         "Region": "B1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 45.143698,
                         "Longitude": 1.645053
                         },
@@ -2597,7 +2597,7 @@
                         "City": "germay",
                         "AccentCity": "Germay",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.408947,
                         "Longitude": 5.356448
                         },
@@ -2606,7 +2606,7 @@
                         "City": "germefontaine",
                         "AccentCity": "Germfontaine",
                         "Region": "A6",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.225182,
                         "Longitude": 6.466846
                         },
@@ -2615,7 +2615,7 @@
                         "City": "germenay",
                         "AccentCity": "Germenay",
                         "Region": "A1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.280954,
                         "Longitude": 3.598096
                         },
@@ -2624,7 +2624,7 @@
                         "City": "germ",
                         "AccentCity": "Germ",
                         "Region": "B3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 42.797278,
                         "Longitude": 0.421391
                         },
@@ -2633,7 +2633,7 @@
                         "City": "germignac",
                         "AccentCity": "Germignac",
                         "Region": "B7",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 45.566667,
                         "Longitude": 0.333333
                         },
@@ -2642,7 +2642,7 @@
                         "City": "germigney",
                         "AccentCity": "Germigney",
                         "Region": "A6",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.026442,
                         "Longitude": 5.688462
                         },
@@ -2651,7 +2651,7 @@
                         "City": "germignonville",
                         "AccentCity": "Germignonville",
                         "Region": "A3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.1933,
                         "Longitude": 1.739133
                         },
@@ -2660,7 +2660,7 @@
                         "City": "germigny aa",
                         "AccentCity": "Germigny aa",
                         "Region": "A1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.082369,
                         "Longitude": 3.038098
                         },
@@ -2669,7 +2669,7 @@
                         "City": "germigny",
                         "AccentCity": "Germigny",
                         "Region": "A1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.082369,
                         "Longitude": 3.038098
                         },
@@ -2678,7 +2678,7 @@
                         "City": "germigny",
                         "AccentCity": "Germigny",
                         "Region": "A3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.919046,
                         "Longitude": 2.898763
                         },
@@ -2687,7 +2687,7 @@
                         "City": "germigny",
                         "AccentCity": "Germigny",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.245003,
                         "Longitude": 3.866072
                         },
@@ -2696,7 +2696,7 @@
                         "City": "germigny",
                         "AccentCity": "Germigny",
                         "Region": "A8",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.991624,
                         "Longitude": 2.944289
                         },
@@ -2705,7 +2705,7 @@
                         "City": "germigny",
                         "AccentCity": "Germigny",
                         "Region": "A8",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.991624,
                         "Longitude": 2.944289
                         },
@@ -2714,7 +2714,7 @@
                         "City": "germigny cc",
                         "AccentCity": "Germigny cc",
                         "Region": "A3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.919046,
                         "Longitude": 2.898763
                         },
@@ -2723,7 +2723,7 @@
                         "City": "germigny vd",
                         "AccentCity": "Germigny vd",
                         "Region": "A8",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.064383,
                         "Longitude": 3.159053
                         },
@@ -2732,7 +2732,7 @@
                         "City": "germinon",
                         "AccentCity": "Germinon",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.878543,
                         "Longitude": 4.156327
                         },
@@ -2741,7 +2741,7 @@
                         "City": "germiny",
                         "AccentCity": "Germiny",
                         "Region": "B2",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.547404,
                         "Longitude": 5.997098
                         },
@@ -2750,7 +2750,7 @@
                         "City": "germisay",
                         "AccentCity": "Germisay",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.398349,
                         "Longitude": 5.357386
                         },
@@ -2759,7 +2759,7 @@
                         "City": "germolles",
                         "AccentCity": "Germolles",
                         "Region": "A1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.279859,
                         "Longitude": 4.590516
                         },
@@ -2768,7 +2768,7 @@
                         "City": "germolles osne",
                         "AccentCity": "Germolles osne",
                         "Region": "A1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.279859,
                         "Longitude": 4.590516
                         },
@@ -2777,7 +2777,7 @@
                         "City": "germondans",
                         "AccentCity": "Germondans",
                         "Region": "A6",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 47.408794,
                         "Longitude": 6.189344
                         },
@@ -2786,7 +2786,7 @@
                         "City": "germond",
                         "AccentCity": "Germond",
                         "Region": "B7",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.456068,
                         "Longitude": 0.421307
                         },
@@ -2795,7 +2795,7 @@
                         "City": "germont",
                         "AccentCity": "Germont",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.43639,
                         "Longitude": 4.876256
                         },
@@ -2804,7 +2804,7 @@
                         "City": "germonville",
                         "AccentCity": "Germonville",
                         "Region": "A3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.195906,
                         "Longitude": 1.962765
                         },
@@ -2813,7 +2813,7 @@
                         "City": "germonville",
                         "AccentCity": "Germonville",
                         "Region": "B2",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.406654,
                         "Longitude": 6.209566
                         },
@@ -2822,7 +2822,7 @@
                         "City": "germs",
                         "AccentCity": "Germs",
                         "Region": "B3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 43.051575,
                         "Longitude": 0.057368
                         },
@@ -2831,7 +2831,7 @@
                         "City": "germs sur oussouet",
                         "AccentCity": "Germs sur Oussouet",
                         "Region": "B3",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 43.051575,
                         "Longitude": 0.057368
                         },
@@ -2840,7 +2840,7 @@
                         "City": "gernelle",
                         "AccentCity": "Gernelle",
                         "Region": "A4",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.767083,
                         "Longitude": 4.816574
                         },
@@ -2849,7 +2849,7 @@
                         "City": "gernes",
                         "AccentCity": "Gernes",
                         "Region": "B1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 45.08563,
                         "Longitude": 1.578798
                         },
@@ -2858,7 +2858,7 @@
                         "City": "gernicourt",
                         "AccentCity": "Gernicourt",
                         "Region": "B6",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.398929,
                         "Longitude": 3.873567
                         },
@@ -2867,7 +2867,7 @@
                         "City": "gero",
                         "AccentCity": "Gero",
                         "Region": "B8",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 44.766667,
                         "Longitude": 6.566667
                         },
@@ -2876,7 +2876,7 @@
                         "City": "geronce",
                         "AccentCity": "Geronce",
                         "Region": 97,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 43.233334,
                         "Longitude": 0.683333
                         },
@@ -2885,7 +2885,7 @@
                         "City": "gerponville",
                         "AccentCity": "Gerponville",
                         "Region": "A7",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.75307,
                         "Longitude": 0.563693
                         },
@@ -2894,7 +2894,7 @@
                         "City": "gerrots",
                         "AccentCity": "Gerrots",
                         "Region": 99,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 49.192454,
                         "Longitude": 0.008918
                         },
@@ -2903,7 +2903,7 @@
                         "City": "gerstheim",
                         "AccentCity": "Gerstheim",
                         "Region": "C1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.381424,
                         "Longitude": 7.703083
                         },
@@ -2912,7 +2912,7 @@
                         "City": "gertwiller",
                         "AccentCity": "Gertwiller",
                         "Region": "C1",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.411008,
                         "Longitude": 7.468275
                         },
@@ -2921,7 +2921,7 @@
                         "City": "geruge",
                         "AccentCity": "Geruge",
                         "Region": "A6",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 46.626793,
                         "Longitude": 5.528589
                         },
@@ -2930,7 +2930,7 @@
                         "City": "gerusse",
                         "AccentCity": "Gerusse",
                         "Region": 99,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 48.532291,
                         "Longitude": 0.428521
                         },
@@ -2939,7 +2939,7 @@
                         "City": "gervais",
                         "AccentCity": "Gervais",
                         "Region": "A9",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 43.803319,
                         "Longitude": 3.614669
                         },
@@ -2957,7 +2957,7 @@
                         "City": "bangalore city",
                         "AccentCity": "Bangalore City",
                         "Region": 19,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.983333,
                         "Longitude": 77.583333
                         },
@@ -2966,7 +2966,7 @@
                         "City": "belagur",
                         "AccentCity": "Belagur",
                         "Region": 19,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.633333,
                         "Longitude": 76.283333
                         },
@@ -2975,7 +2975,7 @@
                         "City": "bhadwi",
                         "AccentCity": "Bhadwi",
                         "Region": 24,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.066667,
                         "Longitude": 72.033333
                         },
@@ -2984,7 +2984,7 @@
                         "City": "chennai",
                         "AccentCity": "Chennai",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.083333,
                         "Longitude": 80.283333
                         },
@@ -2993,7 +2993,7 @@
                         "City": "chennapatnam",
                         "AccentCity": "Chennapatnam",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.083333,
                         "Longitude": 80.283333
                         },
@@ -3002,7 +3002,7 @@
                         "City": "chennapuri",
                         "AccentCity": "Chennapuri",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.083333,
                         "Longitude": 80.283333
                         },
@@ -3011,7 +3011,7 @@
                         "City": "coimbatore",
                         "AccentCity": "Coimbatore",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 1000057,
                         "Latitude": 10.9925,
                         "Longitude": 76.961389
                         },
@@ -3020,7 +3020,7 @@
                         "City": "ernakulam",
                         "AccentCity": "Ernakulam",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 300070,
                         "Latitude": 9.983333,
                         "Longitude": 76.283333
                         },
@@ -3029,7 +3029,7 @@
                         "City": "erniyur",
                         "AccentCity": "Erniyur",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 100560,
                         "Latitude": 9.4,
                         "Longitude": 78.933333
                         },
@@ -3047,7 +3047,7 @@
                         "City": "hyderabad deccan",
                         "AccentCity": "Hyderabad Deccan",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 568790,
                         "Latitude": 17.375278,
                         "Longitude": 78.474444
                         },
@@ -3065,7 +3065,7 @@
                         "City": "madhudi",
                         "AccentCity": "Madhudi",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 42670,
                         "Latitude": 13.822778,
                         "Longitude": 77.020556
                         },
@@ -3083,7 +3083,7 @@
                         "City": "madhupura",
                         "AccentCity": "Madhupura",
                         "Region": 34,
-                        "Population": "",
+                        "Population": 167598,
                         "Latitude": 25.916667,
                         "Longitude": 86.783333
                         },
@@ -3092,7 +3092,7 @@
                         "City": "madhupura",
                         "AccentCity": "Madhupura",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 87678,
                         "Latitude": 26.471,
                         "Longitude": 79.0655
                         },
@@ -3101,7 +3101,7 @@
                         "City": "madhupurgarh",
                         "AccentCity": "Madhupurgarh",
                         "Region": 21,
-                        "Population": "",
+                        "Population": 57789,
                         "Latitude": 20.8,
                         "Longitude": 86.083333
                         },
@@ -3110,7 +3110,7 @@
                         "City": "madhupur",
                         "AccentCity": "Madhupur",
                         "Region": 21,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 20.866667,
                         "Longitude": 84.4
                         },
@@ -3119,7 +3119,7 @@
                         "City": "madhupur",
                         "AccentCity": "Madhupur",
                         "Region": 26,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.733333,
                         "Longitude": 91.233333
                         },
@@ -3128,7 +3128,7 @@
                         "City": "madhupur",
                         "AccentCity": "Madhupur",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 567686,
                         "Latitude": 26.4755,
                         "Longitude": 79.491
                         },
@@ -3146,7 +3146,7 @@
                         "City": "madhura",
                         "AccentCity": "Madhura",
                         "Region": 34,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.333333,
                         "Longitude": 87.1
                         },
@@ -3155,7 +3155,7 @@
                         "City": "madhurbhasha",
                         "AccentCity": "Madhurbhasha",
                         "Region": 28,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.433304,
                         "Longitude": 89.784227
                         },
@@ -3164,7 +3164,7 @@
                         "City": "madhwapur",
                         "AccentCity": "Madhwapur",
                         "Region": 34,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.6,
                         "Longitude": 85.85
                         },
@@ -3173,7 +3173,7 @@
                         "City": "madhwaram",
                         "AccentCity": "Madhwaram",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.586389,
                         "Longitude": 78.3125
                         },
@@ -3182,7 +3182,7 @@
                         "City": "madhwas",
                         "AccentCity": "Madhwas",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.2,
                         "Longitude": 73.616667
                         },
@@ -3191,7 +3191,7 @@
                         "City": "madhyakandha",
                         "AccentCity": "Madhyakandha",
                         "Region": 21,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 20.35,
                         "Longitude": 84.95
                         },
@@ -3209,7 +3209,7 @@
                         "City": "madina",
                         "AccentCity": "Madina",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 687780,
                         "Latitude": 28.95,
                         "Longitude": 76.433333
                         },
@@ -3218,7 +3218,7 @@
                         "City": "madipakkam",
                         "AccentCity": "Madipakkam",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 757880,
                         "Latitude": 12.9725,
                         "Longitude": 80.209167
                         },
@@ -3227,7 +3227,7 @@
                         "City": "madras chetput",
                         "AccentCity": "Madras Chetput",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 455770,
                         "Latitude": 13.07,
                         "Longitude": 80.240833
                         },
@@ -3236,7 +3236,7 @@
                         "City": "madras egmore",
                         "AccentCity": "Madras Egmore",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 527810,
                         "Latitude": 13.071667,
                         "Longitude": 80.255556
                         },
@@ -3245,7 +3245,7 @@
                         "City": "madras",
                         "AccentCity": "Madras",
                         "Region": 25,
-                        "Population": 4328416,
+                        "Population": 43284167,
                         "Latitude": 13.083333,
                         "Longitude": 80.283333
                         },
@@ -3254,7 +3254,7 @@
                         "City": "madras mylapore",
                         "AccentCity": "Madras Mylapore",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 672870,
                         "Latitude": 13.029167,
                         "Longitude": 80.270833
                         },
@@ -3263,7 +3263,7 @@
                         "City": "madras nungambakan",
                         "AccentCity": "Madras Nungambakan",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 867577,
                         "Latitude": 13.060556,
                         "Longitude": 80.234444
                         },
@@ -3272,7 +3272,7 @@
                         "City": "madraspatnam",
                         "AccentCity": "Madraspatnam",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 43498,
                         "Latitude": 13.083333,
                         "Longitude": 80.283333
                         },
@@ -3281,7 +3281,7 @@
                         "City": "madras perambur",
                         "AccentCity": "Madras Perambur",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 298477,
                         "Latitude": 13.110278,
                         "Longitude": 80.2425
                         },
@@ -3290,7 +3290,7 @@
                         "City": "madras rayapuram",
                         "AccentCity": "Madras Rayapuram",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 858623,
                         "Latitude": 13.107222,
                         "Longitude": 80.295278
                         },
@@ -3299,7 +3299,7 @@
                         "City": "madras saint thomas mount",
                         "AccentCity": "Madras Saint Thomas Mount",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 786876,
                         "Latitude": 12.996389,
                         "Longitude": 80.203056
                         },
@@ -3308,7 +3308,7 @@
                         "City": "madras thyagarayanagar",
                         "AccentCity": "Madras Thyagarayanagar",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 4657587,
                         "Latitude": 13.039444,
                         "Longitude": 80.24
                         },
@@ -3317,7 +3317,7 @@
                         "City": "madras triplicane",
                         "AccentCity": "Madras Triplicane",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 7657898,
                         "Latitude": 13.055,
                         "Longitude": 80.276667
                         },
@@ -3326,7 +3326,7 @@
                         "City": "madras vepery",
                         "AccentCity": "Madras Vepery",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.084722,
                         "Longitude": 80.2675
                         },
@@ -3335,7 +3335,7 @@
                         "City": "madrayah",
                         "AccentCity": "Madrayah",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.213056,
                         "Longitude": 77.015
                         },
@@ -3344,7 +3344,7 @@
                         "City": "madri",
                         "AccentCity": "Madri",
                         "Region": 24,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.25,
                         "Longitude": 73.483333
                         },
@@ -3353,7 +3353,7 @@
                         "City": "madri",
                         "AccentCity": "Madri",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.9442,
                         "Longitude": 79.2037
                         },
@@ -3362,7 +3362,7 @@
                         "City": "madsena",
                         "AccentCity": "Madsena",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.8764,
                         "Longitude": 79.403
                         },
@@ -3371,7 +3371,7 @@
                         "City": "maduchantapalli",
                         "AccentCity": "Maduchantapalli",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.647222,
                         "Longitude": 78.686389
                         },
@@ -3380,7 +3380,7 @@
                         "City": "madugula",
                         "AccentCity": "Madugula",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.916667,
                         "Longitude": 82.8
                         },
@@ -3389,7 +3389,7 @@
                         "City": "madukarai",
                         "AccentCity": "Madukarai",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 567865,
                         "Latitude": 10.9,
                         "Longitude": 76.966667
                         },
@@ -3425,7 +3425,7 @@
                         "City": "maduraivayal",
                         "AccentCity": "Maduraivayal",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.063056,
                         "Longitude": 80.171944
                         },
@@ -3434,7 +3434,7 @@
                         "City": "madura",
                         "AccentCity": "Madura",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 9.933333,
                         "Longitude": 78.116667
                         },
@@ -3443,7 +3443,7 @@
                         "City": "madura",
                         "AccentCity": "Madura",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.7078,
                         "Longitude": 79.5538
                         },
@@ -3452,7 +3452,7 @@
                         "City": "madurantakam",
                         "AccentCity": "Madurantakam",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.516667,
                         "Longitude": 79.9
                         },
@@ -3461,7 +3461,7 @@
                         "City": "madur",
                         "AccentCity": "Madur",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.6925,
                         "Longitude": 78.280833
                         },
@@ -3470,7 +3470,7 @@
                         "City": "maduvanahalli",
                         "AccentCity": "Maduvanahalli",
                         "Region": 19,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.15,
                         "Longitude": 77.133333
                         },
@@ -3479,7 +3479,7 @@
                         "City": "maduvanhalli",
                         "AccentCity": "Maduvanhalli",
                         "Region": 19,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.15,
                         "Longitude": 77.133333
                         },
@@ -3488,7 +3488,7 @@
                         "City": "madwa",
                         "AccentCity": "Madwa",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.633333,
                         "Longitude": 74.916667
                         },
@@ -3497,7 +3497,7 @@
                         "City": "nevra",
                         "AccentCity": "Nevra",
                         "Region": 16,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.116667,
                         "Longitude": 73.3
                         },
@@ -3506,7 +3506,7 @@
                         "City": "newada",
                         "AccentCity": "Newada",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.766667,
                         "Longitude": 83.866667
                         },
@@ -3515,7 +3515,7 @@
                         "City": "newara",
                         "AccentCity": "Newara",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.7699,
                         "Longitude": 79.2854
                         },
@@ -3524,7 +3524,7 @@
                         "City": "newari",
                         "AccentCity": "Newari",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.85,
                         "Longitude": 76.266667
                         },
@@ -3533,7 +3533,7 @@
                         "City": "new cantonment",
                         "AccentCity": "New Cantonment",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.6,
                         "Longitude": 77.133333
                         },
@@ -3551,7 +3551,7 @@
                         "City": "new dilli",
                         "AccentCity": "New Dilli",
                         "Region": 7,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.6,
                         "Longitude": 77.2
                         },
@@ -3560,7 +3560,7 @@
                         "City": "new patna",
                         "AccentCity": "New Patna",
                         "Region": 34,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.6,
                         "Longitude": 85.116667
                         },
@@ -3569,7 +3569,7 @@
                         "City": "salempur",
                         "AccentCity": "Salempur",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.295556,
                         "Longitude": 83.963056
                         },
@@ -3578,7 +3578,7 @@
                         "City": "salempur tara",
                         "AccentCity": "Salempur Tara",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.0313,
                         "Longitude": 79.9526
                         },
@@ -3587,7 +3587,7 @@
                         "City": "salem",
                         "AccentCity": "Salem",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 11.65,
                         "Longitude": 78.166667
                         },
@@ -3596,7 +3596,7 @@
                         "City": "tanipadi",
                         "AccentCity": "Tanipadi",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.116667,
                         "Longitude": 78.833333
                         },
@@ -3605,7 +3605,7 @@
                         "City": "tanippadi",
                         "AccentCity": "Tanippadi",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 12.116667,
                         "Longitude": 78.833333
                         },
@@ -3614,7 +3614,7 @@
                         "City": "tanisahippeta",
                         "AccentCity": "Tanisahippeta",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 18.333333,
                         "Longitude": 84.116667
                         },
@@ -3623,7 +3623,7 @@
                         "City": "tanjavur",
                         "AccentCity": "Tanjavur",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.8,
                         "Longitude": 79.15
                         },
@@ -3632,7 +3632,7 @@
                         "City": "tanjore",
                         "AccentCity": "Tanjore",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.8,
                         "Longitude": 79.15
                         },
@@ -3641,7 +3641,7 @@
                         "City": "tanjor",
                         "AccentCity": "Tanjor",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.8,
                         "Longitude": 79.15
                         },
@@ -3659,7 +3659,7 @@
                         "City": "torkandi",
                         "AccentCity": "Torkandi",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.455556,
                         "Longitude": 74.177778
                         },
@@ -3668,7 +3668,7 @@
                         "City": "torkhed",
                         "AccentCity": "Torkhed",
                         "Region": 16,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 21.416667,
                         "Longitude": 74.666667
                         },
@@ -3677,7 +3677,7 @@
                         "City": "torlo",
                         "AccentCity": "Torlo",
                         "Region": 38,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.266667,
                         "Longitude": 85.883333
                         },
@@ -3686,7 +3686,7 @@
                         "City": "torna fort",
                         "AccentCity": "Torna Fort",
                         "Region": 16,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 18.266667,
                         "Longitude": 73.616667
                         },
@@ -3695,7 +3695,7 @@
                         "City": "torna",
                         "AccentCity": "Torna",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.966667,
                         "Longitude": 72.983333
                         },
@@ -3704,7 +3704,7 @@
                         "City": "torna",
                         "AccentCity": "Torna",
                         "Region": 16,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 18.266667,
                         "Longitude": 73.616667
                         },
@@ -3713,7 +3713,7 @@
                         "City": "torna",
                         "AccentCity": "Torna",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.9773,
                         "Longitude": 79.4627
                         },
@@ -3722,7 +3722,7 @@
                         "City": "torna",
                         "AccentCity": "Torna",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.6903,
                         "Longitude": 79.9633
                         },
@@ -3731,7 +3731,7 @@
                         "City": "toro",
                         "AccentCity": "Toro",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.5939,
                         "Longitude": 79.221
                         },
@@ -3740,7 +3740,7 @@
                         "City": "torpa",
                         "AccentCity": "Torpa",
                         "Region": 38,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.95,
                         "Longitude": 85.1
                         },
@@ -3749,7 +3749,7 @@
                         "City": "tor",
                         "AccentCity": "Tor",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 24.6694,
                         "Longitude": 78.5926
                         },
@@ -3758,7 +3758,7 @@
                         "City": "torxem",
                         "AccentCity": "Torxem",
                         "Region": 33,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 15.783333,
                         "Longitude": 73.85
                         },
@@ -3767,7 +3767,7 @@
                         "City": "torya shuklanki",
                         "AccentCity": "Torya Shuklanki",
                         "Region": 35,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.003,
                         "Longitude": 78.7781
                         },
@@ -3776,7 +3776,7 @@
                         "City": "tosbam",
                         "AccentCity": "Tosbam",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.883333,
                         "Longitude": 75.916667
                         },
@@ -3794,7 +3794,7 @@
                         "City": "tosina",
                         "AccentCity": "Tosina",
                         "Region": 24,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.183333,
                         "Longitude": 74.533333
                         },
@@ -3803,7 +3803,7 @@
                         "City": "tota am",
                         "AccentCity": "Tota Am",
                         "Region": 39,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.55,
                         "Longitude": 79.2
                         },
@@ -3812,7 +3812,7 @@
                         "City": "totakurapalem",
                         "AccentCity": "Totakurapalem",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 17.683333,
                         "Longitude": 82.833333
                         },
@@ -3821,7 +3821,7 @@
                         "City": "totapalleguduru",
                         "AccentCity": "Totapalleguduru",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 14.383333,
                         "Longitude": 80.1
                         },
@@ -3830,7 +3830,7 @@
                         "City": "totapalliguduru",
                         "AccentCity": "Totapalliguduru",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 14.383333,
                         "Longitude": 80.1
                         },
@@ -3839,7 +3839,7 @@
                         "City": "totapalloguduru",
                         "AccentCity": "TotapalloGuduru",
                         "Region": 2,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 14.383333,
                         "Longitude": 80.1
                         },
@@ -3848,7 +3848,7 @@
                         "City": "tota tanda",
                         "AccentCity": "Tota Tanda",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.131667,
                         "Longitude": 77.839722
                         },
@@ -3857,7 +3857,7 @@
                         "City": "toteali",
                         "AccentCity": "Toteali",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.793056,
                         "Longitude": 74.809722
                         },
@@ -3866,7 +3866,7 @@
                         "City": "totha jot",
                         "AccentCity": "Totha Jot",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.676111,
                         "Longitude": 83.3625
                         },
@@ -3875,7 +3875,7 @@
                         "City": "totoha",
                         "AccentCity": "Totoha",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.283333,
                         "Longitude": 74.133333
                         },
@@ -3884,7 +3884,7 @@
                         "City": "toto",
                         "AccentCity": "Toto",
                         "Region": 38,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 23.15,
                         "Longitude": 84.533333
                         },
@@ -3893,7 +3893,7 @@
                         "City": "tottikalai",
                         "AccentCity": "Tottikalai",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 13.149444,
                         "Longitude": 79.978889
                         },
@@ -3902,7 +3902,7 @@
                         "City": "tottiyam",
                         "AccentCity": "Tottiyam",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.983333,
                         "Longitude": 78.333333
                         },
@@ -3911,7 +3911,7 @@
                         "City": "tovarankurichchi",
                         "AccentCity": "Tovarankurichchi",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.383333,
                         "Longitude": 78.383333
                         },
@@ -3920,7 +3920,7 @@
                         "City": "toveramkurchi",
                         "AccentCity": "Toveramkurchi",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.383333,
                         "Longitude": 78.383333
                         },
@@ -3929,7 +3929,7 @@
                         "City": "towang",
                         "AccentCity": "Towang",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.583333,
                         "Longitude": 91.866667
                         },
@@ -3938,7 +3938,7 @@
                         "City": "tragan",
                         "AccentCity": "Tragan",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.161495,
                         "Longitude": 73.994584
                         },
@@ -3947,7 +3947,7 @@
                         "City": "tragbal",
                         "AccentCity": "Tragbal",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.5,
                         "Longitude": 74.65
                         },
@@ -3956,7 +3956,7 @@
                         "City": "tragpur",
                         "AccentCity": "Tragpur",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.280556,
                         "Longitude": 74.380556
                         },
@@ -3965,7 +3965,7 @@
                         "City": "trahagam",
                         "AccentCity": "Trahagam",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.514167,
                         "Longitude": 74.173611
                         },
@@ -3974,7 +3974,7 @@
                         "City": "trak ki jhonpariyan",
                         "AccentCity": "Trak ki Jhonpariyan",
                         "Region": 24,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.1775,
                         "Longitude": 75.600833
                         },
@@ -3983,7 +3983,7 @@
                         "City": "trakonno",
                         "AccentCity": "Trakonno",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.833333,
                         "Longitude": 74.208333
                         },
@@ -3992,7 +3992,7 @@
                         "City": "trakuda",
                         "AccentCity": "Trakuda",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 21.966667,
                         "Longitude": 70.65
                         },
@@ -4001,7 +4001,7 @@
                         "City": "tralin",
                         "AccentCity": "Tralin",
                         "Region": 30,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 28.683333,
                         "Longitude": 96.216667
                         },
@@ -4019,7 +4019,7 @@
                         "City": "tranga",
                         "AccentCity": "Tranga",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.819444,
                         "Longitude": 74.319444
                         },
@@ -4028,7 +4028,7 @@
                         "City": "trankebar",
                         "AccentCity": "Trankebar",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 11.031944,
                         "Longitude": 79.852778
                         },
@@ -4037,7 +4037,7 @@
                         "City": "tranquebar",
                         "AccentCity": "Tranquebar",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 11.031944,
                         "Longitude": 79.852778
                         },
@@ -4046,7 +4046,7 @@
                         "City": "trapaj",
                         "AccentCity": "Trapaj",
                         "Region": 9,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 21.433333,
                         "Longitude": 72.116667
                         },
@@ -4055,7 +4055,7 @@
                         "City": "trapui",
                         "AccentCity": "Trapui",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.016667,
                         "Longitude": 74.523611
                         },
@@ -4064,7 +4064,7 @@
                         "City": "treboni",
                         "AccentCity": "Treboni",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.381677,
                         "Longitude": 73.823929
                         },
@@ -4073,7 +4073,7 @@
                         "City": "tresangam",
                         "AccentCity": "Tresangam",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.498611,
                         "Longitude": 74.852778
                         },
@@ -4082,7 +4082,7 @@
                         "City": "tribeniganj",
                         "AccentCity": "Tribeniganj",
                         "Region": 34,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 26.133333,
                         "Longitude": 86.9
                         },
@@ -4091,7 +4091,7 @@
                         "City": "tribeni",
                         "AccentCity": "Tribeni",
                         "Region": 28,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.983333,
                         "Longitude": 88.4
                         },
@@ -4100,7 +4100,7 @@
                         "City": "tribhuvanam",
                         "AccentCity": "Tribhuvanam",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.983333,
                         "Longitude": 79.433333
                         },
@@ -4109,7 +4109,7 @@
                         "City": "trichal",
                         "AccentCity": "Trichal",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 33.769444,
                         "Longitude": 74.238889
                         },
@@ -4118,7 +4118,7 @@
                         "City": "trichinapalli",
                         "AccentCity": "Trichinapalli",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.805,
                         "Longitude": 78.685556
                         },
@@ -4127,7 +4127,7 @@
                         "City": "trichinopoli",
                         "AccentCity": "Trichinopoli",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.805,
                         "Longitude": 78.685556
                         },
@@ -4136,7 +4136,7 @@
                         "City": "trichinopoly",
                         "AccentCity": "Trichinopoly",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.805,
                         "Longitude": 78.685556
                         },
@@ -4145,7 +4145,7 @@
                         "City": "trichur",
                         "AccentCity": "Trichur",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 10.516667,
                         "Longitude": 76.216667
                         },
@@ -4154,7 +4154,7 @@
                         "City": "trichy",
                         "AccentCity": "Trichy",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 593477,
                         "Latitude": 10.805,
                         "Longitude": 78.685556
                         },
@@ -4163,7 +4163,7 @@
                         "City": "trigam",
                         "AccentCity": "Trigam",
                         "Region": 12,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 34.170833,
                         "Longitude": 74.661111
                         },
@@ -4172,7 +4172,7 @@
                         "City": "trijugi narayan",
                         "AccentCity": "Trijugi Narayan",
                         "Region": 39,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.65,
                         "Longitude": 78.983333
                         },
@@ -4181,7 +4181,7 @@
                         "City": "trikkalangod",
                         "AccentCity": "Trikkalangod",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 11.15,
                         "Longitude": 76.116667
                         },
@@ -4190,7 +4190,7 @@
                         "City": "trikkunnapuzha",
                         "AccentCity": "Trikkunnapuzha",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 9.25,
                         "Longitude": 76.416667
                         },
@@ -4199,7 +4199,7 @@
                         "City": "trikodi",
                         "AccentCity": "Trikodi",
                         "Region": 13,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 11.483333,
                         "Longitude": 75.616667
                         },
@@ -4208,7 +4208,7 @@
                         "City": "yercaud",
                         "AccentCity": "Yercaud",
                         "Region": 25,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 11.766667,
                         "Longitude": 78.233333
                         },
@@ -4217,7 +4217,7 @@
                         "City": "zeyadah kot",
                         "AccentCity": "Zeyadah Kot",
                         "Region": 28,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 22.447222,
                         "Longitude": 88.334167
                         },
@@ -4226,7 +4226,7 @@
                         "City": "zhumkiri",
                         "AccentCity": "Zhumkiri",
                         "Region": 20,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 25.883333,
                         "Longitude": 94.866667
                         },
@@ -4235,7 +4235,7 @@
                         "City": "zindapur",
                         "AccentCity": "Zindapur",
                         "Region": 36,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 27.2479,
                         "Longitude": 79.2
                         },
@@ -4253,7 +4253,7 @@
                         "City": "ar riyad",
                         "AccentCity": "Ar Riyad",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 5786867,
                         "Latitude": 24.653664,
                         "Longitude": 46.71522
                         },
@@ -4262,7 +4262,7 @@
                         "City": "ar riyadh",
                         "AccentCity": "Ar Riyadh",
                         "Region": 10,
-                        "Population": "",
+                        "Population": 678578,
                         "Latitude": 24.653664,
                         "Longitude": 46.71522
                         },
@@ -4271,7 +4271,7 @@
                         "City": "ar rownah",
                         "AccentCity": "Ar Rownah",
                         "Region": 11,
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 18.219843,
                         "Longitude": 42.806057
                         },
@@ -4280,7 +4280,7 @@
                         "City": "cummings",
                         "AccentCity": "Cummings",
                         "Region": "CA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 39.8333333,
                         "Longitude": 123.6308333
                         },
@@ -4289,7 +4289,7 @@
                         "City": "cuna vista mobile home park",
                         "AccentCity": "Cuna Vista Mobile Home Park",
                         "Region": "CA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 35.0969444,
                         "Longitude": 120.6019444
                         },
@@ -4298,7 +4298,7 @@
                         "City": "cunard",
                         "AccentCity": "Cunard",
                         "Region": "CA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 38.8138889,
                         "Longitude": 121.6847222
                         },
@@ -4307,7 +4307,7 @@
                         "City": "cunningham",
                         "AccentCity": "Cunningham",
                         "Region": "CA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 38.3625,
                         "Longitude": 122.7766667
                         },
@@ -4325,7 +4325,7 @@
                         "City": "evergreen",
                         "AccentCity": "Evergreen",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.9525,
                         "Longitude": 92.1086111
                         },
@@ -4334,7 +4334,7 @@
                         "City": "evergreen hills",
                         "AccentCity": "Evergreen Hills",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.5041667,
                         "Longitude": 90.9997222
                         },
@@ -4343,7 +4343,7 @@
                         "City": "evergreen plantation",
                         "AccentCity": "Evergreen Plantation",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.2697222,
                         "Longitude": 91.1991667
                         },
@@ -4352,7 +4352,7 @@
                         "City": "ewing",
                         "AccentCity": "Ewing",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.7580556,
                         "Longitude": 90.6861111
                         },
@@ -4361,7 +4361,7 @@
                         "City": "expressway acres",
                         "AccentCity": "Expressway Acres",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.4172222,
                         "Longitude": 93.9444444
                         },
@@ -4370,7 +4370,7 @@
                         "City": "extension",
                         "AccentCity": "Extension",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.9705556,
                         "Longitude": 91.8058333
                         },
@@ -4379,7 +4379,7 @@
                         "City": "fairbanks",
                         "AccentCity": "Fairbanks",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.6441667,
                         "Longitude": 92.0363889
                         },
@@ -4388,7 +4388,7 @@
                         "City": "faircloth",
                         "AccentCity": "Faircloth",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.6141667,
                         "Longitude": 92.6047222
                         },
@@ -4397,7 +4397,7 @@
                         "City": "fairfax",
                         "AccentCity": "Fairfax",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.7286111,
                         "Longitude": 91.3883333
                         },
@@ -4406,7 +4406,7 @@
                         "City": "fairfield",
                         "AccentCity": "Fairfield",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 32.4563889,
                         "Longitude": 93.7627778
                         },
@@ -4415,7 +4415,7 @@
                         "City": "fairlane",
                         "AccentCity": "Fairlane",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 29.6836111,
                         "Longitude": 90.7866667
                         },
@@ -4424,7 +4424,7 @@
                         "City": "fairmount",
                         "AccentCity": "Fairmount",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.4375,
                         "Longitude": 92.6775
                         },
@@ -4433,7 +4433,7 @@
                         "City": "fairview",
                         "AccentCity": "Fairview",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.325,
                         "Longitude": 91.5322222
                         },
@@ -4442,7 +4442,7 @@
                         "City": "fairview acres",
                         "AccentCity": "Fairview Acres",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.7963889,
                         "Longitude": 93.1258333
                         },
@@ -4451,7 +4451,7 @@
                         "City": "fairview alpha",
                         "AccentCity": "Fairview Alpha",
                         "Region": "LA",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 31.9708333,
                         "Longitude": 93.1863889
                         },
@@ -4460,7 +4460,7 @@
                         "City": "new york",
                         "AccentCity": "New York",
                         "Region": "FL",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 30.8383333,
                         "Longitude": 87.2008333
                         },
@@ -4469,7 +4469,7 @@
                         "City": "rose hill",
                         "AccentCity": "Rose Hill",
                         "Region": "KS",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.5583333,
                         "Longitude": 97.1347222
                         },
@@ -4478,7 +4478,7 @@
                         "City": "roseland",
                         "AccentCity": "Roseland",
                         "Region": "KS",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.2811111,
                         "Longitude": 94.8502778
                         },
@@ -4487,7 +4487,7 @@
                         "City": "rossville",
                         "AccentCity": "Rossville",
                         "Region": "KS",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 39.1361111,
                         "Longitude": 95.9513889
                         },
@@ -4496,7 +4496,7 @@
                         "City": "saint george",
                         "AccentCity": "Saint George",
                         "Region": "KS",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 39.1911111,
                         "Longitude": 96.42
                         },
@@ -4505,7 +4505,7 @@
                         "City": "saint joe",
                         "AccentCity": "Saint Joe",
                         "Region": "KS",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 37.7488889,
                         "Longitude": 97.7316667
                         },
@@ -4514,7 +4514,7 @@
                         "City": "saint john",
                         "AccentCity": "Saint John",
                         "Region": "KS",
-                        "Population": "",
+                        "Population": 0,
                         "Latitude": 38.0022222,
                         "Longitude": 98.7597222
                         }
